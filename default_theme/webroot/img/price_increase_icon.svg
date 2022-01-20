@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="58px" height="51.236px" viewBox="198 279.264 58 51.236" enable-background="new 198 279.264 58 51.236"
+	 xml:space="preserve">
+<g id="Layer_2">
+	<path fill="#5FC529" d="M704.75,172.75c-59.23-59.221-155.27-59.221-214.5,0c-59.221,59.229-59.221,155.27,0,214.5
+		c59.23,59.22,155.27,59.22,214.5,0C763.97,328.02,763.97,231.98,704.75,172.75z M659.21,354.31
+		c-12.25-7.07-78.62-45.31-78.62-45.31H580c0,0,0-110.71,0-126s24-15.84,24,0s0,111.63,0,111.63s52.311,29.689,67.21,38.811
+		C686.111,342.56,671.46,361.39,659.21,354.31z"/>
+</g>
+<g id="Layer_7">
+	<g id="Layer_9">
+	</g>
+</g>
+<image overflow="visible" width="248" height="204" xlink:href="help.jpg"  transform="matrix(1 0 0 1 -203.1646 66.6672)">
+</image>
+<circle fill="none" stroke="#828282" stroke-width="3" stroke-miterlimit="10" cx="221.979" cy="306.078" r="22.673"/>
+<polygon fill="#FFFFFF" points="235.978,308.997 251.916,308.997 251.916,292.281 260.47,292.281 244.14,271.676 228.2,291.311 
+	236.364,291.311 "/>
+<polygon fill="#828282" points="240.154,303.409 250.466,303.409 250.466,292.595 256,292.595 245.436,279.264 235.124,291.966 
+	240.405,291.966 "/>
+<text transform="matrix(1 0 0 1 211.5 316.5002)" fill="#828282" font-family="'Roboto-Bold'" font-size="32">€</text>
+</svg>

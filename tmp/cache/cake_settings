@@ -1,0 +1,29 @@
+1642174547
+a:27:{s:18:"auction_peak_start";s:5:"10:00";s:16:"auction_peak_end";s:5:"00:00";s:15:"bid_butler_time";s:1:"3";s:18:"free_referral_bids";s:2:"10";s:9:"site_live";s:3:"yes";s:23:"free_registeration_bids";s:1:"5";s:22:"free_bid_packages_bids";s:1:"5";s:21:"free_won_auction_bids";s:1:"0";s:15:"offline_message";s:54:"We are currently upgrading our system, come back soon!";s:18:"default_meta_title";s:12:"CongoBid.com";s:24:"default_meta_description";s:211:"CongoBid.com, Le premier site de vente aux enchères congolais. Payez jusqu'à 90% moin cher sur tous les articles disponibles. Electroniques, Electromenagers, Billets d'avions, Habillements, et tant d'autres...";s:21:"default_meta_keywords";s:86:"Congonid.com, Encheres, Bidez, Gangnez, Acheter des Bids, Acheter moin cher, reduction";s:12:"real_can_win";s:1:"0";s:19:"user_invite_message";s:324:"Je t'invite à rejoindre ce nouveau site d'enchère ou tous les articles commencent à 0$. Tu ferra plus de 90% d'économies en bidant sur des articles de qualité. SITENAME est une révolution de la vente en ligne et des enchères.
+Vas y! et n'oubli pas de t'inscrire et de souscrire : https://congobid.com/users/register/";s:20:"autolist_expire_time";s:2:"30";s:12:"autobid_time";s:1:"0";s:7:"mark_up";s:1:"0";s:19:"autolist_delay_time";s:3:"450";s:17:"local_license_key";s:757:"<?PHP
+/*--
+ZWMzY2E5MGRjNGJiMjMyYjkzYjk4ZWYy
+MmZiZTQ1MTl8MTMwNzUxMjgwMHw1ZTg2
+NDc5ZWU2OGRlMGE4ZmMwOTZlOGMyYWIz
+MTVjZnwzOWNkZTM5MDM2ZGExNzgzMDhi
+ODBkYzAzOTRhYjhhZXwzOTM5MDgwZjU1
+Njk0NDQ1MDI1YWI5N2VjOGFkM2VkNSwx
+MGZmNzlmZGNlYzA3NWRkOTMwZDFhNjVl
+OGJiODJiZHxjZjRlMjU3NjYxMTBlMDA2
+YjE4ZmJlZDc4YTEwYmFmOHxlbXB0eXxu
+ZXZlcnxhOWIyMTRjNTU3ZDBhZjQ3MGUx
+ZjdhMDY0MTJmMTVkM3x8ZWJiNTE1ZDk3
+MGIyMGE3MmY0OGUyZWI5NmJjMDExOTV8
+MC40OTUxMTcwMCAxMzA2NjQ5MzgwfDgy
+ZjI4NTlhZmFkMzVkMTg5YjQwOTc3MzY3
+MTA0NWExfDB8MjBlMmIzYzUzNTE4MDdj
+MzllODEzMWNmNDQwZWFlZjl8djEuNi4w
+LTEyNzM1OTM1OTkrdjEuNS4wLTEyNzA1
+Njk1OTkrdjEuNC4wLTEyNjUxMjk5OTkr
+djEuMy4wLTEyNTk1MTM5OTkrdjEuMi4w
+LTEyNTczNTM5OTkrdjEuMS4wLTEyNTEz
+ODg3OTkrdjEuMC4wLTEyNTAwOTI3OTl8
+NWRjOGNiOWRmNmEyZTY2MmZjZGE2NjYz
+NzM4NmU1YTE=
+--*/
+?>";s:13:"phppa_version";s:5:"2.4.1";s:31:"autolist_online_period_start_at";s:5:"10:00";s:29:"autolist_online_period_end_at";s:5:"23:00";s:17:"autolist_disabled";s:1:"0";s:9:"win_limit";s:2:"50";s:16:"win_limit_expiry";s:1:"8";s:15:"ADD_LISTING_FEE";s:1:"0";s:9:"news_test";s:17:"info@congobid.com";}

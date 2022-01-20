@@ -1,0 +1,183 @@
+2014-03-31 10:19:57 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/highbidz_template/elements/header_menu.ctp, line 122]
+2014-03-31 10:20:46 Warning: Warning (2): file_get_contents() [<a href='http://php.net/function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in [CORE/controllers/dashboards_controller.php, line 205]
+2014-03-31 10:20:46 Warning: Warning (2): file_get_contents(http://members.phppennyauction.com/latest.txt) [<a href='http://php.net/function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in [CORE/controllers/dashboards_controller.php, line 205]
+2014-03-31 10:21:01 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/highbidz_template/elements/header_menu.ctp, line 122]
+2014-03-31 10:22:44 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/highbidz_template/elements/header_menu.ctp, line 122]
+2014-03-31 10:24:31 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/highbidz_template/elements/header_menu.ctp, line 122]
+2014-03-31 10:24:55 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/highbidz_template/elements/header_menu.ctp, line 122]
+2014-03-31 10:26:21 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/highbidz_template/elements/header_menu.ctp, line 122]
+2014-03-31 10:32:58 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/highbidz_template/elements/header_menu.ctp, line 122]
+2014-03-31 10:35:37 Warning: Warning (2): file_get_contents() [<a href='http://php.net/function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in [CORE/controllers/dashboards_controller.php, line 205]
+2014-03-31 10:35:37 Warning: Warning (2): file_get_contents(http://members.phppennyauction.com/latest.txt) [<a href='http://php.net/function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in [CORE/controllers/dashboards_controller.php, line 205]
+2014-05-01 09:25:12 Warning: Warning (2): include_once(/home/dzinein3/bidwar/vendors/google/src/Google_Oauth2Service.php) [<a href='http://php.net/function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in [CORE/highbidz_template/elements/google_login.ctp, line 10]
+2014-05-01 09:25:12 Warning: Warning (2): include_once() [<a href='http://php.net/function.include'>function.include</a>]: Failed opening '/home/dzinein3/bidwar/vendors/google/src/Google_Oauth2Service.php' for inclusion (include_path='/home/dzinein3/bidwar/vendors/google/src:/home/dzinein3/bidwar:/home/dzinein3/bidwar//:.:/usr/lib/php:/usr/local/lib/php') in [CORE/highbidz_template/elements/google_login.ctp, line 10]
+2014-08-30 17:25:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/dzinein3/public_html/matt/cake/basics.php:109) in [CORE/cake/libs/controller/controller.php, line 647]
+2014-08-30 17:26:18 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/dzinein3/public_html/matt/cake/basics.php:109) in [CORE/cake/libs/controller/controller.php, line 647]
+2014-08-30 17:26:20 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/dzinein3/public_html/matt/cake/basics.php:109) in [CORE/cake/libs/controller/controller.php, line 647]
+2014-08-30 17:28:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/dzinein3/public_html/matt/cake/basics.php:109) in [CORE/cake/libs/controller/controller.php, line 647]
+2014-08-30 17:29:14 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/dzinein3/public_html/matt/cake/basics.php:109) in [CORE/cake/libs/controller/controller.php, line 647]
+2014-08-30 17:30:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/dzinein3/public_html/matt/cake/basics.php:109) in [CORE/cake/libs/controller/controller.php, line 647]
+2014-08-30 17:32:49 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Message.auction_id' in 'on clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 527]
+2015-09-26 07:23:26 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'the1bidco_propenn'@'localhost' (using password: YES) in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 454]
+2015-09-26 07:23:26 Warning: Warning (2): mysql_select_db() expects parameter 2 to be resource, boolean given in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 460]
+2015-09-26 07:23:26 Warning: Warning (2): mysql_query() expects parameter 2 to be resource, boolean given in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 500]
+2015-09-26 07:23:26 Warning: Warning (2): mysql_get_server_info() expects parameter 1 to be resource, boolean given in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 468]
+2015-09-26 07:23:28 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'the1bidco_propenn'@'localhost' (using password: YES) in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 454]
+2015-09-26 07:23:28 Warning: Warning (2): mysql_select_db() expects parameter 2 to be resource, boolean given in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 460]
+2015-09-26 07:23:28 Warning: Warning (2): mysql_query() expects parameter 2 to be resource, boolean given in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 500]
+2015-09-26 07:23:28 Warning: Warning (2): mysql_get_server_info() expects parameter 1 to be resource, boolean given in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 468]
+2015-11-11 04:46:23 Error: Email sending failed to abe@the1bid.com
+2015-11-25 10:26:51 Error: Email sending failed to Array
+2015-12-09 15:42:15 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1062: Duplicate entry '3' for key 'transaction_id'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 527]
+2015-12-09 15:44:46 Error: Email sending failed to Array
+2015-12-09 15:44:46 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home2/ajabidco/public_html/the1bid/cake/basics.php:307) in [CORE/cake/libs/controller/controller.php, line 647]
+2015-12-09 15:49:43 Error: Email sending failed to Array
+2015-12-09 15:52:11 Error: Email sending failed to Array
+2015-12-09 15:56:39 Error: Email sending failed to Array
+2015-12-09 15:57:38 Error: Email sending failed to Array
+2015-12-09 15:59:21 Error: Email sending failed to Array
+2015-12-09 16:03:05 Error: Email sending failed to abe@the1bid.com
+2015-12-09 16:24:00 Error: Email sending failed to abe@the1bid.com
+2015-12-09 16:27:43 Error: Email sending failed to abe@the1bid.com
+2015-12-09 16:32:08 Error: Email sending failed to abe@the1bid.com
+2015-12-09 16:35:51 Error: Email sending failed to abe@the1bid.com
+2015-12-09 16:39:33 Error: Email sending failed to abe@the1bid.com
+2015-12-09 17:27:44 Error: Email sending failed to abe@the1bid.com
+2015-12-09 19:26:42 Error: Email sending failed to abe@the1bid.com
+2015-12-09 19:28:25 Error: Email sending failed to abe@the1bid.com
+2015-12-09 19:30:33 Error: Email sending failed to abe@the1bid.com
+2015-12-09 20:00:03 Error: Email sending failed to abe@the1bid.com
+2015-12-09 20:01:15 Error: Email sending failed to abe@the1bid.com
+2015-12-09 20:07:43 Error: Email sending failed to abe@the1bid.com
+2015-12-09 20:08:30 Error: Email sending failed to abe@the1bid.com
+2015-12-09 21:00:47 Error: Email sending failed to abe@the1bid.com
+2015-12-10 00:15:00 Error: Email sending failed to abe@the1bid.com
+2015-12-10 06:48:46 Error: Email sending failed to abe@the1bid.com
+2015-12-10 07:04:10 Error: Email sending failed to abe@the1bid.com
+2015-12-10 07:47:37 Error: Email sending failed to abe@the1bid.com
+2015-12-10 07:57:20 Error: Email sending failed to abe@the1bid.com
+2015-12-10 07:58:57 Error: Email sending failed to abe@the1bid.com
+2015-12-10 08:00:31 Error: Email sending failed to abe@the1bid.com
+2015-12-10 08:07:33 Error: Email sending failed to abe@the1bid.com
+2015-12-10 08:14:30 Error: Email sending failed to abe@the1bid.com
+2015-12-10 08:17:46 Error: Email sending failed to abe@the1bid.com
+2015-12-10 08:19:55 Error: Email sending failed to abe@the1bid.com
+2015-12-10 08:34:30 Error: Email sending failed to abe@the1bid.com
+2015-12-10 08:36:27 Error: Email sending failed to abe@the1bid.com
+2015-12-10 16:01:54 Error: Email sending failed to abe@the1bid.com
+2015-12-10 16:48:17 Error: Email sending failed to abe@the1bid.com
+2015-12-13 16:33:12 Error: Email sending failed to abe@the1bid.com
+2015-12-13 17:02:19 Error: Email sending failed to abe@the1bid.com
+2015-12-13 18:43:57 Error: Email sending failed to abe@the1bid.com
+2015-12-14 13:01:27 Error: Email sending failed to abe@the1bid.com
+2015-12-14 16:04:01 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:27:28 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:29:03 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:31:14 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:32:11 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:34:50 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:35:29 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:36:31 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:37:25 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:38:08 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:39:17 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:40:52 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:41:36 Error: Email sending failed to abe@the1bid.com
+2015-12-14 20:58:15 Error: Email sending failed to abe@the1bid.com
+2015-12-15 01:26:26 Error: Email sending failed to abe@the1bid.com
+2015-12-15 16:01:45 Error: Email sending failed to abe@the1bid.com
+2015-12-15 16:06:01 Error: Email sending failed to abe@the1bid.com
+2015-12-16 14:45:36 Error: Email sending failed to abe@the1bid.com
+2015-12-17 17:58:24 Error: Email sending failed to Array
+2015-12-17 18:04:46 Error: Email sending failed to Array
+2015-12-18 14:08:24 Error: Email sending failed to abe@the1bid.com
+2015-12-18 14:35:27 Error: Email sending failed to abe@the1bid.com
+2015-12-18 15:20:39 Error: Email sending failed to abe@the1bid.com
+2015-12-18 15:22:23 Error: Email sending failed to abe@the1bid.com
+2015-12-18 15:34:59 Error: Email sending failed to abe@the1bid.com
+2015-12-18 16:15:01 Error: Email sending failed to abe@the1bid.com
+2015-12-18 16:16:25 Error: Email sending failed to abe@the1bid.com
+2015-12-18 16:45:21 Error: Email sending failed to abe@the1bid.com
+2015-12-18 16:46:41 Error: Email sending failed to abe@the1bid.com
+2015-12-18 16:50:43 Error: Email sending failed to abe@the1bid.com
+2015-12-18 17:37:28 Error: Email sending failed to abe@the1bid.com
+2015-12-18 17:41:34 Error: Email sending failed to abe@the1bid.com
+2015-12-18 21:14:57 Error: Email sending failed to abe@the1bid.com
+2015-12-18 22:41:10 Error: Email sending failed to abe@the1bid.com
+2015-12-20 14:08:32 Error: Email sending failed to abe@the1bid.com
+2015-12-20 14:12:43 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1062: Duplicate entry '119' for key 'transaction_id'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 527]
+2015-12-20 14:12:43 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'order_id' cannot be null</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 527]
+2015-12-20 14:18:06 Error: Email sending failed to abe@the1bid.com
+2015-12-20 16:22:58 Error: Email sending failed to abe@the1bid.com
+2015-12-20 16:29:35 Error: Email sending failed to abe@the1bid.com
+2015-12-20 16:31:54 Error: Email sending failed to abe@the1bid.com
+2015-12-20 16:44:51 Error: Email sending failed to abe@the1bid.com
+2015-12-20 16:45:35 Error: Email sending failed to abe@the1bid.com
+2015-12-20 19:29:25 Error: Email sending failed to abe@the1bid.com
+2015-12-20 19:45:52 Error: Email sending failed to abe@the1bid.com
+2015-12-20 21:21:25 Error: Email sending failed to abe@the1bid.com
+2015-12-20 21:22:18 Error: Email sending failed to abe@the1bid.com
+2015-12-21 16:10:24 Error: Email sending failed to abe@the1bid.com
+2015-12-21 17:16:52 Error: Email sending failed to abe@the1bid.com
+2015-12-21 17:41:07 Error: Email sending failed to abe@the1bid.com
+2015-12-21 17:50:10 Error: Email sending failed to abe@the1bid.com
+2015-12-21 20:08:18 Error: Email sending failed to abe@the1bid.com
+2015-12-21 20:56:49 Error: Email sending failed to abe@the1bid.com
+2015-12-21 22:04:01 Error: Email sending failed to abe@the1bid.com
+2015-12-21 22:04:36 Error: Email sending failed to abe@the1bid.com
+2015-12-22 00:37:04 Error: Email sending failed to abe@the1bid.com
+2015-12-22 15:26:11 Error: Email sending failed to abe@the1bid.com
+2015-12-22 15:28:43 Error: Email sending failed to abe@the1bid.com
+2015-12-22 15:29:50 Error: Email sending failed to abe@the1bid.com
+2015-12-22 15:39:14 Error: Email sending failed to abe@the1bid.com
+2015-12-22 15:42:36 Error: Email sending failed to abe@the1bid.com
+2015-12-22 15:51:45 Error: Email sending failed to abe@the1bid.com
+2015-12-22 16:17:50 Error: Email sending failed to abe@the1bid.com
+2015-12-22 16:20:56 Error: Email sending failed to abe@the1bid.com
+2015-12-22 16:37:13 Error: Email sending failed to abe@the1bid.com
+2015-12-22 17:01:30 Error: Email sending failed to abe@the1bid.com
+2015-12-22 17:18:03 Error: Email sending failed to abe@the1bid.com
+2015-12-22 17:20:54 Error: Email sending failed to abe@the1bid.com
+2015-12-22 18:24:23 Error: Email sending failed to abe@the1bid.com
+2015-12-22 18:27:06 Error: Email sending failed to abe@the1bid.com
+2015-12-22 18:32:40 Error: Email sending failed to abe@the1bid.com
+2015-12-22 18:35:11 Error: Email sending failed to abe@the1bid.com
+2015-12-22 18:38:50 Error: Email sending failed to abe@the1bid.com
+2015-12-22 18:51:41 Error: Email sending failed to abe@the1bid.com
+2015-12-22 21:25:02 Error: Email sending failed to abe@the1bid.com
+2015-12-27 16:57:38 Error: Email sending failed to abe@the1bid.com
+2015-12-27 17:34:45 Error: Email sending failed to abe@the1bid.com
+2015-12-27 17:56:53 Error: Email sending failed to abe@the1bid.com
+2015-12-29 00:23:22 Error: Email sending failed to abe@the1bid.com
+2015-12-29 22:56:46 Error: Email sending failed to abe@the1bid.com
+2015-12-30 00:30:59 Error: Email sending failed to 
+2015-12-30 00:56:20 Error: Email sending failed to 
+2015-12-30 01:57:32 Error: Email sending failed to abe@the1bid.com
+2015-12-30 05:54:18 Error: Email sending failed to 
+2015-12-30 19:13:53 Error: Email sending failed to 
+2015-12-31 10:50:32 Error: Email sending failed to abe@the1bid.com
+2015-12-31 10:55:00 Error: Email sending failed to abe@the1bid.com
+2016-01-02 09:50:00 Error: Email sending failed to 
+2016-01-03 18:07:15 Error: Email sending failed to abe@the1bid.com
+2016-01-04 21:48:39 Error: Email sending failed to abe@the1bid.com
+2016-01-05 00:37:17 Error: Email sending failed to abe@the1bid.com
+2016-01-05 00:56:33 Error: Email sending failed to abe@the1bid.com
+2016-01-05 02:52:16 Error: Email sending failed to abe@the1bid.com
+2016-01-05 03:07:19 Error: Email sending failed to 
+2016-01-05 03:07:37 Error: Email sending failed to 
+2016-01-05 13:49:58 Error: Email sending failed to abe@the1bid.com
+2016-01-05 18:10:37 Error: Email sending failed to abe@the1bid.com
+2016-01-05 22:47:17 Error: Email sending failed to abe@the1bid.com
+2016-01-06 20:40:09 Error: Email sending failed to abe@the1bid.com
+2016-01-06 21:34:53 Error: Email sending failed to abe@the1bid.com
+2016-01-07 14:20:37 Error: Email sending failed to abe@the1bid.com
+2016-01-07 18:02:33 Error: Email sending failed to abe@the1bid.com
+2016-01-08 02:14:51 Error: Email sending failed to abe@the1bid.com
+2016-01-08 04:55:24 Error: Email sending failed to abe@the1bid.com
+2016-01-08 10:52:09 Error: Email sending failed to abe@the1bid.com
+2016-01-08 21:22:46 Error: Email sending failed to abe@the1bid.com
+2016-01-08 21:45:36 Error: Email sending failed to Array
+2016-01-09 21:31:31 Error: Email sending failed to abe@the1bid.com
+2016-01-10 17:34:07 Error: Email sending failed to abe@the1bid.com
+2016-01-12 15:52:07 Error: Email sending failed to abe@the1bid.com
+2016-01-17 19:24:47 Error: Email sending failed to abe@the1bid.com

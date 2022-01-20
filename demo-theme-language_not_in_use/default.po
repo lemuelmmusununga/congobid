@@ -1,0 +1,1151 @@
+msgid "Live Auctions"
+msgstr ""
+
+msgid "Closed Auctions"
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid "How It Works"
+msgstr ""
+
+msgid "Buy Bids"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "or"
+msgstr "
+"
+
+msgid "Email Us"
+msgstr ""
+
+msgid "FAQs"
+msgstr ""
+
+msgid "for more answers"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "My Account"
+msgstr ""
+
+msgid "Get started .. Check our steps .."
+msgstr ""
+
+msgid "join now"
+msgstr ""
+
+msgid "Join now and get 5 free bids"
+msgstr ""
+
+msgid "purchase bids"
+msgstr ""
+
+msgid "Purchase Bids"
+msgstr ""
+
+msgid "Purchase the bids package that suits you most"
+msgstr ""
+
+msgid "start bidding"
+msgstr ""
+
+msgid "Choose the item you would like to bid on"
+msgstr ""
+
+msgid "check out"
+msgstr ""
+
+msgid "Win an item and have it delivered to your doorsteps"
+msgstr ""
+
+msgid "watch our video"
+msgstr ""
+
+msgid "Our Runway"
+msgstr ""
+
+msgid "Ending today"
+msgstr ""
+
+msgid "Upcoming"
+msgstr ""
+
+msgid "Minimum Price"
+msgstr ""
+
+msgid "Retail Price"
+msgstr ""
+
+msgid "Follow Us"
+msgstr ""
+
+msgid "faq"
+msgstr ""
+
+msgid "privacy"
+msgstr ""
+
+msgid "terms & conditions"
+msgstr ""
+
+msgid "contact us"
+msgstr ""
+
+msgid "Already a Member?"
+msgstr ""
+
+msgid "Please Login"
+msgstr ""
+
+msgid "Forgot your password"
+msgstr ""
+
+msgid "I'M NEW HERE"
+msgstr ""
+
+msgid "If you don't have an account you need to register first before you start bidding."
+msgstr ""
+
+msgid "terms and conditions"
+msgstr ""
+
+msgid "We are here to assist you"
+msgstr ""
+
+msgid "2 EASY WAYS to stay in touch"
+msgstr ""
+
+msgid "Please enter your email."
+msgstr ""
+
+msgid "Your Email"
+msgstr ""
+
+msgid "Which Package Is Right For You?"
+msgstr ""
+
+msgid "Perfect For Beginners"
+msgstr ""
+
+msgid "Purchase Using Paypal"
+msgstr ""
+
+msgid "Buy More Bids"
+msgstr ""
+
+msgid "SHARE
+msgstr ""
+
+msgid "Old password"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "Retype Password"
+msgstr ""
+
+msgid "Change Password"
+msgstr ""
+
+msgid "You will receive 10% free bids on the first package any of your friends purchase."
+msgstr ""
+
+msgid "Invite Now"
+msgstr ""
+
+msgid "Invite Message"
+msgstr ""
+
+msgid "Dash Board"
+msgstr ""
+
+msgid "Edit Profile"
+msgstr ""
+
+msgid "My Addresses"
+msgstr ""
+
+msgid "My Watchlist"
+msgstr ""
+
+msgid "My Watchlist"
+msgstr ""
+
+msgid "My Watchlist"
+msgstr ""
+
+msgid "My Bids"
+msgstr ""
+
+msgid "Referrals"
+msgstr ""
+
+msgid "Invite My Friends"
+msgstr ""
+
+msgid "Cancel My Account"
+msgstr ""
+
+msgid "My Bid Butlers"
+msgstr ""
+
+msgid "Won Auctions"
+msgstr ""
+
+msgid "Things to do:"
+msgstr ""
+
+msgid "Add a"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Purchase some bids"
+msgstr ""
+msgid "Pay for an Auction"
+msgstr ""
+
+msgid "You have no things to do at the moment."
+msgstr ""
+
+msgid "My Dash Board"
+msgstr ""
+
+msgid "You currently have %s bids."
+msgstr ""
+
+msgid "Click here to purchase some bids"
+msgstr ""
+
+msgid "You currently have %s unpaid auction(s)."
+msgstr ""
+
+msgid "View your won auctions"
+msgstr ""
+
+msgid "Send Details"
+msgstr ""
+
+msgid "Cancel Account"
+msgstr ""
+
+msgid "Are you sure you want to cancel your account?"
+msgstr ""
+
+msgid "Yes, Cancel My Account"
+msgstr ""
+
+msgid "Edit Account"
+msgstr ""
+
+msgid "Username *"
+msgstr ""
+
+msgid "First Name *"
+msgstr ""
+
+msgid "Email *"
+msgstr ""
+
+msgid "Last Name *"
+msgstr ""
+
+msgid "Date of Birth"
+msgstr ""
+
+msgid "Gender *"
+msgstr ""
+
+msgid "Sign up for the newsletter?"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Title"
+msgstr "Título"
+
+msgid "End Time"
+msgstr ""
+
+msgid "End Time"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Are you sure you want to delete this auction from your watchlist?"
+msgstr ""
+
+msgid "You are not watching any auctions at the moment."
+msgstr ""
+
+msgid "Earn %s free bids each time you refer a user who signs up and purchases some bids."
+msgstr ""
+
+msgid "Ask the new user to enter in your username or email address in the \'Refer\' box when they register, or simply ask them to vist the following link:"
+msgstr ""
+
+msgid "You can also invite members from various social network websites and popular free email services by %s."
+msgstr ""
+
+msgid "clicking here"
+msgstr ""
+
+msgid "Pending Referrals"
+msgstr ""
+
+msgid "Pending referrals are users who you have referred who have not purchased any bids yet."
+msgstr ""
+
+msgid "Click here to view your pending referrals"
+msgstr ""
+
+msgid "Confirmed Referrals"
+msgstr ""
+
+msgid "You have referred and received free bids for signing up the following users."
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Date Joined"
+msgstr ""
+
+msgid "You have not referred any members yet."
+msgstr ""
+
+msgid "Please wait while we transfering you to the payment gateway."
+msgstr ""
+
+msgid "Click here if this page appears for more than 5 seconds"
+msgstr ""
+
+msgid "We make bidding and buying really easy! Follow this basic guide."
+msgstr ""
+
+msgid "Register For Free"
+msgstr ""
+
+msgid "Get free bids and use them to bid on your favorite product."
+msgstr ""
+
+msgid "Buy Bid Packages"
+msgstr ""
+
+msgid "Purchase additional bids by clicking on the “get bids” button and following the instructions."
+msgstr ""
+
+msgid "Start Bidding on Items"
+msgstr ""
+
+msgid "Start bidding by clicking on the ‘bid now’ button. the price of every item starts at zero."
+msgstr ""
+
+msgid "Each bid placed costs 0.7 USD and raises the item price by 0.01 USD."
+msgstr ""
+
+msgid "At the end of the countdown period you will have 15 seconds to add a bid and reset the timer to 15 seconds."
+msgstr ""
+
+msgid "Win the Auctioned Item"
+msgstr ""
+
+msgid "Congratulations"
+msgstr ""
+
+msgid "you have won! Follow our easy checkout process to purchase your item."
+msgstr ""
+
+msgid "If the timer reaches 00:00:00, the auction is closed. No new bids can be placed and the last bidder wins the right to buy the discounted product at the final auction price; if the minimum selling price is met."
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "View this Auction"
+msgstr ""
+
+msgid "Bids Purchased"
+msgstr ""
+
+msgid "You have no account transactions at the moment."
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Suburb / Town"
+msgstr ""
+
+msgid "City / State / County"
+msgstr ""
+
+msgid "Postcode"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Add a %s address"
+msgstr ""
+
+msgid "Change Address"
+msgstr ""
+
+msgid "Address (line 1) *"
+msgstr ""
+
+msgid "Address (line 2)"
+msgstr ""
+
+msgid "City / State / County *"
+msgstr ""
+
+msgid "Post Code / Zip Code *"
+msgstr ""
+
+msgid "Country *"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Make all your addresses this address."
+msgstr ""
+
+msgid "<< Back to your addresses"
+msgstr ""
+
+msgid "Add New Address"
+msgstr ""
+
+msgid "Buy This Auction Now:"
+msgstr ""
+
+msgid "You are about to purchase this auction now for:"
+msgstr ""
+
+msgid "Purchase this Auction Now >>"
+msgstr ""
+
+msgid "These auctions have ended. Look out for more great bargains!"
+msgstr ""
+
+msgid "Showing the last"
+msgstr ""
+
+msgid "There are no closed auctions at the moment."
+msgstr ""
+
+msgid "Future Auctions"
+msgstr ""
+
+msgid "There are no future auctions at the moment."
+msgstr ""
+
+msgid "Future Auctions"
+msgstr ""
+
+msgid "There are no live auctions at the moment."
+msgstr ""
+
+msgid "You are about to pay"
+msgstr ""
+
+msgid "plus"
+msgstr ""
+
+msgid "for delivery"
+msgstr ""
+
+msgid "for the auction titled"
+msgstr ""
+
+msgid "Delivery Information"
+msgstr ""
+
+msgid "Please confirm your address details below and ensure the details are correct before purchasing this item"
+msgstr ""
+
+msgid "Missing Address information"
+msgstr ""
+
+msgid "Before purchasing the item please <a href="/addresses">click here to update your address information</a>."
+msgstr ""
+
+msgid "If you feel there is an error, or if you are unsure about anything please <a href="/contact">contact us before paying your auction</a>."
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Less Credits"
+msgstr ""
+
+msgid "from your credit balance of:"
+msgstr ""
+
+msgid "Total Payabale"
+msgstr ""
+
+msgid "Payment Methods"
+msgstr ""
+
+msgid "Pay Using Credit Card >>"
+msgstr ""
+
+msgid "Pay for this Auction (demo mode) >>"
+msgstr ""
+
+msgid "Confirm Your Details >>"
+msgstr ""
+
+msgid "BIDDING"
+msgstr ""
+
+msgid "Bid Butlers"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Bidder"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "No bids have been placed yet."
+msgstr ""
+
+msgid "Bid Butler settings"
+msgstr ""
+
+msgid "Starting Bid"
+msgstr ""
+
+msgid "Maximum bid"
+msgstr ""
+
+msgid "Buy it now!"
+msgstr ""
+
+msgid "To the highest bidder, flat rate pricing:"
+msgstr ""
+
+msgid "To the highest bidder, flat rate pricing:"
+msgstr ""
+
+msgid "You can bid."
+msgstr ""
+
+msgid "Free listing! Costs nothing."
+msgstr ""
+
+msgid "With each bid, the auction price"
+msgstr ""
+
+msgid "Number of bids"
+msgstr ""
+
+msgid "Set Bid"
+msgstr ""
+
+msgid "Your Bid Butler settings"
+msgstr ""
+
+msgid "LIVE"
+msgstr ""
+
+msgid "AUCTION"
+msgstr ""
+
+msgid "Auction"
+msgstr ""
+
+msgid "Bid"
+msgstr ""
+
+msgid "decreases by"
+msgstr ""
+
+msgid "increases by"
+msgstr ""
+
+msgid "CURRENT"
+msgstr ""
+
+msgid "PRICE"
+msgstr ""
+
+msgid "YOU SAVE"
+msgstr ""
+
+msgid "There are no won auctions at the moment."
+msgstr ""
+
+msgid "Date Won"
+msgstr ""
+
+msgid "Confirm Details"
+msgstr ""
+
+msgid "Pay"
+msgstr ""
+
+msgid "Confirm Details"
+msgstr ""
+
+msgid "You have not won any auctions yet."
+msgstr ""
+
+msgid "My BidBuddies"
+msgstr ""
+
+msgid "My Bid Butlers"
+msgstr ""
+
+msgid "Are you sure you want to delete this bid butler?"
+msgstr ""
+
+msgid "You have no bid butlers at the moment."
+msgstr ""
+
+msgid "Edit BidBuddies"
+msgstr ""
+
+msgid "Edit My Bid Butler for Auction:"
+msgstr ""
+
+msgid "Please Note: Your bids will be used when the counter reaches 30 seconds."
+msgstr ""
+
+msgid "Minimum Price *"
+msgstr ""
+
+msgid "Maximum Price *"
+msgstr ""
+
+msgid "Number of Bids to use *"
+msgstr ""
+
+msgid "<< Back to my bid butlers"
+msgstr ""
+
+msgid "Add BidButler"
+msgstr ""
+
+msgid "Add a Bid Butler for Auction"
+msgstr ""
+
+msgid "Your bids will be used when the counter reaches"
+msgstr ""
+
+msgid "seconds."
+msgstr ""
+
+msgid "The minimum price must be at least"
+msgstr ""
+
+msgid "higher than the current bid."
+msgstr ""
+
+msgid "Add a Bid Butler >>"
+msgstr ""
+
+msgid "<< Back to the auction"
+msgstr ""
+
+msgid "<< Back to the auction"
+msgstr ""
+
+msgid "placed on auction titled:"
+msgstr ""
+
+msgid "You have no bids in your account."
+msgstr ""
+
+msgid "You have"
+msgstr ""
+
+msgid "bids in your account"
+msgstr ""
+
+msgid "My Credits"
+msgstr ""
+
+msgid "Credits used on:"
+msgstr ""
+
+msgid "Current Credits"
+msgstr ""
+
+msgid "You have no credits at the moment."
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Bids"
+msgstr ""
+
+msgid "BIDS"
+msgstr ""
+
+msgid "« First"
+msgstr ""
+
+msgid "« Previous"
+msgstr ""
+
+msgid "Next »"
+msgstr ""
+
+msgid "Last »"
+msgstr ""
+
+msgid "Results"
+msgstr ""
+
+msgid "you have"
+msgstr ""
+
+msgid "Bids Left"
+msgstr ""
+
+msgid "%s bids left"
+msgstr ""
+
+msgid "Auction Description"
+msgstr ""
+
+msgid "Bid multiplier (number of bids deducted from your account each time you press the bid button)"
+msgstr ""
+
+msgid "Price at which the product is available for in the open market"
+msgstr ""
+
+msgid "Countdown timer displays the time left to bid on the item .. Resets to another 15 seconds when bid placed is during the 15 second countdown period"
+msgstr ""
+
+msgid "Orange color indicates that Auction ends today"
+msgstr ""
+
+msgid "Product image ( more images are available in the auction detail page )"
+msgstr ""
+
+msgid "Minimum price needed for the item to get sold"
+msgstr ""
+
+msgid "Current auction price"
+msgstr ""
+
+msgid ""Bid now" button allows you to place your bids in auctions"
+msgstr ""
+
+msgid "Our steps in more detail"
+msgstr ""
+
+msgid "Register on the website"
+msgstr ""
+
+msgid "Purchase the bid package"
+msgstr ""
+
+msgid "that suits you most"
+msgstr ""
+
+msgid "Choose the item"
+msgstr ""
+
+msgid "you would like to bid on"
+msgstr ""
+
+msgid "Start bidding by clicking on the 'Bid Now' button. The price of every item starts at zero. Every time you place a bid, one bid gets deducted from your account and the item's price increases by one cent"
+msgstr ""
+
+msgid "If you're the last bidder when the timer reaches zero, you've won the auction!"
+msgstr ""
+
+msgid "You're almost done! All you still have to do is proceed to the checkout page"
+msgstr ""
+
+msgid "Product name & description"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "news"
+msgstr ""
+
+msgid "General Info"
+msgstr ""
+
+msgid "Check our"
+msgstr ""
+
+msgid "How It Works"
+msgstr ""
+
+msgid "Subcategories"
+msgstr ""
+
+msgid "There are no auctions in this category at the moment."
+msgstr ""
+
+msgid "Other auctions"
+msgstr ""
+
+msgid "All items"
+msgstr ""
+
+msgid "Previous Winners"
+msgstr ""
+
+msgid "Free Auctions"
+msgstr ""
+
+msgid "Free bids"
+msgstr ""
+
+msgid "Highest Bidder"
+msgstr ""
+
+msgid "Manage"
+msgstr ""
+
+msgid "BidAgent monitors your auctions when you cannot be on line,or when you would like to have bids placed automatically for you."
+msgstr ""
+
+msgid "HISTORY"
+msgstr ""
+
+msgid "BUDDY"
+msgstr ""
+
+msgid "BIDS REMAINING"
+msgstr ""
+
+msgid "Set"
+msgstr ""
+
+msgid "Bid Now"
+msgstr ""
+
+msgid "There was a problem adding the bid buddy please review the errors below and try again."
+msgstr ""
+
+msgid "Billing"
+msgstr ""
+
+msgid "Shipping"
+msgstr ""
+
+msgid "Unpaid"
+msgstr ""
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Price"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Debit"
+msgstr ""
+
+msgid "Credit"
+msgstr ""
+
+msgid "Current Balance"
+msgstr ""
+
+msgid "You have been successfully logged out."
+msgstr ""
+
+msgid "Coming Soon Auctions"
+msgstr ""
+
+msgid "Credit Auctions"
+msgstr ""
+
+msgid "You did not enter anything to search for."
+msgstr ""
+
+msgid "Invalid Auction."
+msgstr ""
+
+msgid "Invalid Auction"
+msgstr ""
+
+msgid "You have already paid for this auction."
+msgstr ""
+
+msgid "Invalid User"
+msgstr ""
+
+msgid "Please enter in your address details."
+msgstr ""
+
+msgid "Free bids given for winning your first auction."
+msgstr ""
+
+msgid "There was a problem processing your payment.  Please check your credit card details and try again.  If the problem persists try the Paypal payment option."
+msgstr ""
+
+msgid "Your details have been confirmed.  We will notify you when your item has been shipped."
+msgstr ""
+
+msgid "Your payment was successful.  We will notify you when your item has been shipped."
+msgstr ""
+
+msgid "Your transaction was cancelled and your auctions was not purchased."
+msgstr ""
+
+msgid "You have successfully won this auction."
+msgstr ""
+
+msgid "Buy This Auction Now"
+msgstr ""
+
+msgid "%s - Auction Status Updated"
+msgstr ""
+
+msgid "The auction status was successfully updated."
+msgstr ""
+
+msgid "The product ID was invalid."
+msgstr ""
+
+msgid "Product RRP/MSRP must be set for reverse auctions."
+msgstr ""
+
+msgid "The auction has been added successfully."
+msgstr ""
+
+msgid "There was a problem adding the auction please review the errors below and try again."
+msgstr ""
+
+msgid "The auction ID was invalid."
+msgstr ""
+
+msgid "The auction has been updated successfully."
+msgstr ""
+
+msgid "There was a problem updating the auction please review the errors below and try again."
+msgstr ""
+
+msgid "Invalid id for Auction."
+msgstr ""
+
+msgid "The bids were successfully refunded."
+msgstr ""
+
+msgid "Invalid auction id."
+msgstr ""
+
+msgid "The auction was deleted successfully."
+msgstr ""
+
+msgid "There was a problem deleting this auction."
+msgstr ""
+
+msgid "Free bids given for registering."
+msgstr ""
+
+msgid "Your account has been activated and some free bids have been added to your account. Please login using your username and password."
+msgstr ""
+
+msgid "Your account has been activated. Please login using your username and password."
+msgstr ""
+
+msgid "Invalid activation key or you have already been activated. Please try again or contact the administrator."
+msgstr ""
+
+msgid "Free registration bids"
+msgstr ""
+
+msgid "Thank you for registering.  An email has been sent to your email address, please check your email in order to activate your account.  If you fail to receive an email please check your SPAM box and add as an accepted sender."
+msgstr ""
+
+msgid "Email sending failed. Please try again or contact the administrator."
+msgstr ""
+
+msgid "There was a problem creating your account please review the errors below and try again."
+msgstr ""
+
+msgid "An email containing your account details has been sent. Please check your email."
+msgstr ""
+
+msgid "Email sending failed. Please try again or contact administrator."
+msgstr ""
+
+msgid "The email address you entered is not assigned to any member."
+msgstr ""
+
+msgid "Reset Your Password"
+msgstr ""
+
+msgid "You have successfully logged in."
+msgstr ""
+
+msgid "You have an SMS account only.  Please create an online account in order to access the features on the website."
+msgstr ""
+
+msgid "Your account has not been actived yet or your account has been suspended."
+msgstr ""
+
+msgid "Single Bid"
+msgstr ""
+
+msgid "Faq"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Terms"
+msgstr ""
+
+msgid "Date & Time Posted"
+msgstr ""
+
+msgid "<< Back to news"
+msgstr ""
+
+msgid "Latest News"
+msgstr ""
+
+msgid "There is no news at the moment."
+msgstr ""
+
+msgid "The username is already taken."
+msgstr ""
+
+msgid "The username can contain letters and numbers only."
+msgstr ""
+
+msgid "Username must be between 3 and 16 characters long."
+msgstr ""
+
+msgid "A username is required."
+msgstr ""
+
+msgid "Password must be between 6 and 20 characters long."
+msgstr ""
+
+msgid "The old password you entered is incorrect."
+msgstr ""
+
+msgid "Please enter in your old password."
+msgstr ""
+
+msgid "Password is a required field."
+msgstr ""
+
+msgid "Password and Retype Password do not match."
+msgstr ""
+
+msgid "Retype Password is a required field."
+msgstr ""
+
+msgid "First name is required."
+msgstr ""
+
+msgid "First name may only contain alphabets and numbers only"
+msgstr ""
+
+msgid "Last name is required."
+msgstr ""
+
+msgid "Last name may only contain alphabets and numbers only"
+msgstr ""
+
+msgid "Mobile can be a number only."
+msgstr ""
+
+msgid "The email was already used by another user."
+msgstr ""
+
+msgid "The email address you entered is not valid."
+msgstr ""
+
+msgid "Email address is required."
+msgstr ""
+
+msgid "Email and confirm email do not match."
+msgstr ""
+
+msgid "The confirm email you entered is not valid."
+msgstr ""
+
+msgid "Confirm email is required."
+msgstr ""
+
+msgid "The referrer username or email address you entered does not exist."
+msgstr ""
+
+msgid "The referrer code you entered does not exist."
+msgstr ""
+
+msgid "Please accept the terms and conditions."
+msgstr ""
+
+msgid "Please provide a valid phone number."
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password Confirmation"
+msgstr ""
+
+msgid "Referred By sothebys988 Team"
+msgstr ""
+
+msgid "You are not authorized to access that location."
+msgstr ""

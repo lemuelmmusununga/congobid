@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body style="background-color: #161616;margin: 0;padding: 0px;">
+
+<div><span class="numb">+0</span></div>
+
+<br>
+<br>
+ 
+
+<div><span class="numb numb-rev">-5</span></div>
+ 
+</body>
+</html>
+
+
+<style>
+.numb{color:#fff;padding:100px;font-size:100px}
+</style>
+
+
+<script>
+
+/*  setInterval(function(){ 
+		//show_counter();
+ },6000);  */
+ 
+ let counter = 0;
+ let counter1 = 5;
+function show_counter(){
+      const numb = document.querySelector(".numb");
+      counter++;
+      numb.textContent = '+'  + counter;
+      if(counter < 5){
+        setTimeout( show_counter , 1000); // Do it again
+      }
+      if(counter == 5){
+        setTimeout( show_counter2 , 2000);    counter = 0;
+      }
+
+      /*setInterval(()=>{
+        if(counter >= 3){
+          clearInterval(); show_counter2();
+        }else{
+          counter+=1;
+          numb.textContent = '+'  + counter;
+        }
+      }, 1000);*/
+
+
+	 }
+ 
+ show_counter();   
+ 
+ 
+
+/*setInterval(function(){ 
+		//show_counter2();
+ },6000);*/
+ 
+ function show_counter2(){
+      const numb1 = document.querySelector(".numb-rev");
+      
+      counter1--;
+      numb1.textContent = '-'  + counter1;
+      if(counter1 > 0){
+        setTimeout( show_counter2 , 1000); // Do it again
+      }
+      if(counter1 == 0){
+          counter1 = 5;
+        setTimeout( show_counter , 2000);
+      }
+
+      /*setInterval(()=>{
+        if(counter1 <= 0){
+          clearInterval(); show_counter();
+        }else{
+          counter1--;
+          numb1.textContent =  '-' + counter1;
+        }
+      }, 1000);*/
+	 }
+		//show_counter2(); 
+
+    </script>
+

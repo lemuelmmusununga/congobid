@@ -1,0 +1,8 @@
+$info=array(
+	'name'=>'userfunctions',
+	'title'=>'Core user functions',
+	'description'=>'Various user controller functions.',
+	'copyright'=>'Copyright 2011, Scriptmatix. Distribution is prohibited.',
+	'min_version'=>'2.4.3',
+	'max_version'=>'2.9.9',
+);

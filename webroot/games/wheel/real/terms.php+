@@ -1,0 +1,15 @@
+﻿<?php  
+
+
+
+if(!empty($_COOKIE['AUCTION'])){
+	$sessionId = $_COOKIE['AUCTION'];
+	session_id($sessionId);
+}
+
+
+session_start();
+
+
+
+?>

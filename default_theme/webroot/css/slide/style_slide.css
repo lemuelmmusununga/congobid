@@ -1,0 +1,43 @@
+
+.slider {
+	width:1024px;
+	overflow:hidden;
+	margin-left:auto;
+	margin-right:auto;
+	height:328px;
+}
+.slider li{
+	list-style:none;
+	width:1024px;
+	padding:0;
+}
+
+
+.sliderOrangeBtn {
+	height:36px;
+	border:1px solid #6a6969;
+	line-height:26px;
+	padding:0 0px;
+	padding-top:9px;
+	display:block;
+	font-size:26px;
+	color:#FFF;
+	float:left;
+	background:url(images/Slide_btn_orange.jpg) repeat-x;
+}
+.sliderBlueBtn {
+	height:38px;
+	border:1px solid #6a6969;
+	line-height:26px;
+	padding:0 5px;
+	padding-top:7px;
+	display:block;
+	font-size:40px;
+	font-weight:bold;
+	color:#FFF;
+	float:left;
+	background:url(images/Slide_btn_blue.jpg) repeat-x;
+}
+
+
+

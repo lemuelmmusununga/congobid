@@ -1,0 +1,90 @@
+2014-03-31 06:27:50 License: validate_local_key(): empty key
+2014-03-31 06:27:50 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2014-03-31 06:27:50 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2014-03-31 06:27:50 License: go_remote(): file_get_contents failed
+2014-03-31 06:27:50 License: parse_xml: FAILED
+2014-03-31 06:27:50 License: License invalid - status (invalid)
+2014-03-31 06:28:27 License: validate_local_key(): empty key
+2014-03-31 06:28:27 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2014-03-31 06:28:27 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2014-03-31 06:28:27 License: go_remote(): file_get_contents failed
+2014-03-31 06:28:27 License: parse_xml: FAILED
+2014-03-31 06:28:27 License: License invalid - status (invalid)
+2014-03-31 06:31:41 License: validate_local_key(): empty key
+2014-03-31 06:31:41 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2014-03-31 06:31:41 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2014-03-31 06:31:41 License: go_remote(): file_get_contents failed
+2014-03-31 06:31:41 License: parse_xml: FAILED
+2014-03-31 06:31:41 License: License invalid - status (invalid)
+2014-03-31 06:31:58 License: validate_local_key(): empty key
+2014-03-31 06:31:58 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2014-03-31 06:31:58 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2014-03-31 06:31:58 License: go_remote(): file_get_contents failed
+2014-03-31 06:31:58 License: parse_xml: FAILED
+2014-03-31 06:31:58 License: License invalid - status (invalid)
+2014-03-31 06:32:11 License: validate_local_key(): empty key
+2014-03-31 06:32:12 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2014-03-31 06:32:12 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2014-03-31 06:32:12 License: go_remote(): file_get_contents failed
+2014-03-31 06:32:12 License: parse_xml: FAILED
+2014-03-31 06:32:12 License: License invalid - status (invalid)
+2014-03-31 06:32:25 License: validate_local_key(): empty key
+2014-03-31 06:32:26 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2014-03-31 06:32:26 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2014-03-31 06:32:26 License: go_remote(): file_get_contents failed
+2014-03-31 06:32:26 License: parse_xml: FAILED
+2014-03-31 06:32:26 License: License invalid - status (invalid)
+2014-03-31 07:06:49 License: validate_local_key(): empty key
+2014-03-31 07:06:49 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2014-03-31 07:06:49 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2014-03-31 07:06:49 License: go_remote(): file_get_contents failed
+2014-03-31 07:06:49 License: parse_xml: FAILED
+2014-03-31 07:06:49 License: License invalid - status (invalid)
+2015-10-03 08:32:40 License: validate_local_key(): empty key
+2015-10-03 08:32:42 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2015-10-03 08:32:44 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2015-10-03 08:32:44 License: go_remote(): file_get_contents failed
+2015-10-03 08:32:44 License: parse_xml: FAILED
+2015-10-03 08:32:44 License: License invalid - status (invalid)
+2015-10-03 09:09:30 License: validate_local_key(): empty key
+2015-10-03 09:09:32 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2015-10-03 09:09:33 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2015-10-03 09:09:33 License: go_remote(): file_get_contents failed
+2015-10-03 09:09:33 License: parse_xml: FAILED
+2015-10-03 09:09:33 License: License invalid - status (invalid)
+2015-10-03 09:13:14 License: validate_local_key(): empty key
+2015-10-03 09:13:15 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2015-10-03 09:13:16 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2015-10-03 09:13:16 License: go_remote(): file_get_contents failed
+2015-10-03 09:13:16 License: parse_xml: FAILED
+2015-10-03 09:13:16 License: License invalid - status (invalid)
+2015-10-03 09:13:25 License: validate_local_key(): empty key
+2015-10-03 09:13:25 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2015-10-03 09:13:26 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2015-10-03 09:13:26 License: go_remote(): file_get_contents failed
+2015-10-03 09:13:26 License: parse_xml: FAILED
+2015-10-03 09:13:26 License: License invalid - status (invalid)
+2015-10-03 09:14:47 License: validate_local_key(): empty key
+2015-10-03 09:14:48 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2015-10-03 09:14:48 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2015-10-03 09:14:48 License: go_remote(): file_get_contents failed
+2015-10-03 09:14:48 License: parse_xml: FAILED
+2015-10-03 09:14:48 License: License invalid - status (invalid)
+2015-10-03 09:22:07 License: validate_local_key(): empty key
+2015-10-03 09:22:08 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2015-10-03 09:22:09 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2015-10-03 09:22:09 License: go_remote(): file_get_contents failed
+2015-10-03 09:22:09 License: parse_xml: FAILED
+2015-10-03 09:22:09 License: License invalid - status (invalid)
+2015-10-03 09:22:23 License: validate_local_key(): empty key
+2015-10-03 09:22:23 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2015-10-03 09:22:24 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2015-10-03 09:22:24 License: go_remote(): file_get_contents failed
+2015-10-03 09:22:24 License: parse_xml: FAILED
+2015-10-03 09:22:24 License: License invalid - status (invalid)
+2015-10-03 09:26:24 License: validate_local_key(): empty key
+2015-10-03 09:26:26 License: phpaudit_exec_socket(): Couldnt fsockopen: error 0/php_network_getaddresses: getaddrinfo failed: Name or service not known
+2015-10-03 09:26:26 License: phpaudit_exec_curl(): curl failed with errorno: 6
+2015-10-03 09:26:26 License: go_remote(): file_get_contents failed
+2015-10-03 09:26:26 License: parse_xml: FAILED
+2015-10-03 09:26:26 License: License invalid - status (invalid)

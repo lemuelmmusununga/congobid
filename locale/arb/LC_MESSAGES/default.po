@@ -1,0 +1,809 @@
+msgid "Live Auctions"
+msgstr "المزادات الحالية"
+
+msgid "Closed Auctions"
+msgstr "المزادات المنتهية"
+
+msgid "Contact Us"
+msgstr "تواصل معنا"
+
+msgid "How It Works"
+msgstr "طريقة عمل الموقع"
+
+msgid "Buy Bids"
+msgstr "شراء باقات البدز"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Register"
+msgstr "انضم الآن"
+
+msgid "or"
+msgstr "أو"
+
+msgid "Email Us"
+msgstr "البريد الإلكتروني:"
+
+msgid "FAQs"
+msgstr "الأسئلة الأكثر تكراراً"
+
+msgid "for more answers"
+msgstr "تحتاج لأجوبة؟ أنظر"
+
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+msgid "Welcome"
+msgstr "مرحباً"
+
+msgid "My Account"
+msgstr "حسابي"
+
+msgid "Get started .. Check our steps .."
+msgstr "مزادات هذا الاسبوع"
+
+msgid "join now"
+msgstr "إنضم الآن"
+
+msgid "Join now and get 5 free bids"
+msgstr "انضم الان واحصل على 5 بدز مجانية"
+
+msgid "purchase bids"
+msgstr "شراء باقة البدز الانسب لك"
+
+msgid "Purchase the bids package that suits you most"
+msgstr "شراء باقة البدز الانسب لك"
+
+msgid "start bidding"
+msgstr "البدء بالمزايدة"
+
+msgid "Choose the item you would like to bid on"
+msgstr "إختر المنتج الذي ترغب في المزايدة عليه"
+
+msgid "check out"
+msgstr "اكمل عملية الخروج"
+
+msgid "Win an item and have it delivered to your doorsteps"
+msgstr "فز بالمنتج وسيتم توصيله إلى عنوانك"
+
+msgid "watch our video"
+msgstr "أو شاهد الفيديو"
+
+msgid "Our Runway"
+msgstr "مزادات هذا الاسبوع"
+
+msgid "Ending today"
+msgstr "مزاد اليوم"
+
+msgid "Upcoming"
+msgstr "المزادات القادمة"
+
+msgid "Minimum Price"
+msgstr "السعر الأدنى"
+
+msgid "Retail Price"
+msgstr "سعر التجزئة"
+
+msgid "Follow Us"
+msgstr "تواصل معنا"
+
+msgid "faq"
+msgstr "الأسئلة الأكثر تكراراَ"
+
+msgid "privacy"
+msgstr "سياسة الخصوصية"
+
+msgid "terms & conditions"
+msgstr "الأحكام والشروط"
+
+msgid "contact us"
+msgstr "اتصل بنا"
+
+msgid "Already a Member?"
+msgstr "أنت عضو مسجل؟"
+
+msgid "Please Login"
+msgstr "قم بتسجيل الدخول هنا"
+
+msgid "Forgot your password"
+msgstr "هل نسيت كلمة السر؟"
+
+msgid "I'M NEW HERE"
+msgstr "أنا عضو جديد"
+
+msgid "If you don't have an account you need to register first before you start bidding."
+msgstr "إن لم يكن لديك حساب، يتعين عليك التسجيل أولاً قبل البدء بتقديم العروض."
+
+msgid "terms and conditions"
+msgstr "الأحكام والشروط"
+
+msgid "terms and conditions"
+msgstr "الأحكام والشروط"
+
+msgid "We are here to assist you"
+msgstr "نحن نوفر لك طريقتين"
+
+msgid "2 EASY WAYS to stay in touch"
+msgstr "سهلتين للتواصل معنا"
+
+msgid "Please enter your email."
+msgstr "الرجاء أدخال بريدك الإلكتروني"
+
+msgid "Your Email"
+msgstr "الأيميل الخاص بك"
+
+msgid "Which Package Is Right For You?"
+msgstr "أي باقة تناسبك؟"
+
+msgid "Perfect For Beginners"
+msgstr "الأنسب للمبتدئين"
+
+msgid "Purchase Using Paypal"
+msgstr "إختر الباقة"
+
+msgid "Buy More Bids"
+msgstr "اشترِ المزيد من العروض"
+
+msgid "SHARE"
+msgstr "تواصل"
+
+msgid "Old password"
+msgstr "كلمة المرور القديمة"
+
+msgid "New Password"
+msgstr "كلمة المرور الجديدة"
+
+msgid "Retype Password"
+msgstr "أعادة كلمة المرور الجديدة"
+
+msgid "Change Password"
+msgstr "تغير كلمة المرور"
+
+msgid "You will receive 10% free bids on the first package any of your friends purchase."
+msgstr "سوف تتلقى بدز مجانية  من خلال  دعوة اصدقائك عن طريق البريد الالكتروني لتحصل على 10٪ من أول باقة بدز يقومون بشرائها"
+
+msgid "Invite Now"
+msgstr "إرسال البريد الإلكتروني للأصدقاء"
+
+
+msgid "Invite Message"
+msgstr "أضف المزيد"
+
+msgid "Dash Board"
+msgstr "لوحة القيادة"
+
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+msgid "My Addresses"
+msgstr "بلدي عناوين"
+
+msgid "My Watchlist"
+msgstr "قائمة الرغبات الخاصة بي"
+
+msgid "My Watchlist"
+msgstr "بلدي المزايدة الخدم"
+
+msgid "My Watchlist"
+msgstr "وون مزادات"
+
+msgid "My Bids"
+msgstr "أسعاري"
+
+msgid "Referrals"
+msgstr "الدعوات"
+
+msgid "Invite My Friends"
+msgstr "دعوة أصدقائي"
+
+msgid "Cancel My Account"
+msgstr "إلغاء حسابي"
+
+msgid "My Bid Butlers"
+msgstr "بلدي المزايدة الخدم"
+
+msgid "Won Auctions"
+msgstr "وون مزادات"
+
+msgid "Things to do:"
+msgstr "أشياء للقيام بها:"
+
+msgid "Add a"
+msgstr "أضف"
+
+msgid "Address"
+msgstr "عنوان"
+
+msgid "Purchase some bids"
+msgstr "شراء بعض العروض"
+
+msgid "Pay for an Auction"
+msgstr "دفع ثمن مزاد"
+
+msgid "You have no things to do at the moment."
+msgstr "ا يوجد لديك أشياء للقيام بها في الوقت الراهن."
+
+msgid "My Dash Board"
+msgstr "بلدي داش المجلس"
+
+
+msgid "You currently have %s bids."
+msgstr "لديك حاليا عطاءات٪ الصورة."
+
+msgid "Click here to purchase some bids"
+msgstr "انقر هنا لشراء بعض العروض"
+
+msgid "You currently have %s unpaid auction(s)."
+msgstr "لديك حاليا مزاد غير المدفوعة٪ ق (ق)."
+
+msgid "View your won auctions"
+msgstr "عرض المزادات الخاصة بك فاز"
+
+msgid "Send Details"
+msgstr "في قيد الارسال"
+
+msgid "Cancel Account"
+msgstr "إلغاء حساب"
+
+msgid "Are you sure you want to cancel your account?"
+msgstr "هل أنت متأكد أنك تريد إلغاء حسابك؟"
+
+msgid "Yes, Cancel My Account"
+msgstr "نعم، إلغاء حسابي"
+
+msgid "Edit Account"
+msgstr "تحرير الحساب"
+
+msgid "Username *"
+msgstr "اسم المستخدم *"
+
+msgid "First Name *"
+msgstr "الاسم الأول *"
+
+msgid "Email *"
+msgstr "البريد الإلكتروني *"
+
+msgid "Last Name *"
+msgstr "اسم العائلة *"
+
+msgid "Date of Birth"
+msgstr "تاريخ الميلاد"
+
+msgid "Gender *"
+msgstr "جنس *"
+
+msgid "Sign up for the newsletter?"
+msgstr "الاشتراك في النشرة الإخبارية؟"
+
+msgid "Save Changes"
+msgstr "حفظ التغيرات"
+
+msgid "Image"
+msgstr "صورة"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "End Time"
+msgstr "نهاية الوقت"
+
+msgid "End Time"
+msgstr "السعر"
+
+msgid "Actions"
+msgstr "تطبيقات"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Are you sure you want to delete this auction from your watchlist?"
+msgstr "هل أنت متأكد أنك تريد حذف هذا المزاد من قائمة المراقبة الخاص بك؟"
+
+msgid "You are not watching any auctions at the moment."
+msgstr "انك لم يشاهد أي المزاد في الوقت الراهن."
+
+msgid "Earn %s free bids each time you refer a user who signs up and purchases some bids."
+msgstr "كسب٪ الصورة عطاءات مجانية في كل مرة كنت أشير المستخدم الذي يوقع حتى ويشتري بعض العروض."
+
+msgid "Ask the new user to enter in your username or email address in the \'Refer\' box when they register, or simply ask them to vist the following link:"
+msgstr "يطلب من المستخدم الجديد للدخول في اسم المستخدم أو عنوان البريد الإلكتروني الخاص بك في \ 'ارجع \' مربع عند التسجيل، أو ببساطة نطلب منهم أن فيست على الرابط التالي:"
+
+msgid "You can also invite members from various social network websites and popular free email services by %s."
+msgstr "يمكنك أيضا دعوة أعضاء من مختلف المواقع الشبكات الاجتماعية وخدمات البريد الإلكتروني المجاني الشعبية التي كتبها٪ الصورة."
+
+msgid "clicking here"
+msgstr "بالضغط هنا"
+
+msgid "Pending Referrals"
+msgstr "في انتظار الدعوات"
+
+msgid "Pending referrals are users who you have referred who have not purchased any bids yet."
+msgstr "الدعوات المعلقة هي المستخدمين الذين قمت المشار الذين لم تكن قد اشتريت أي عروض حتى الآن."
+
+msgid "Click here to view your pending referrals"
+msgstr "انقر هنا لمشاهدة الدعوات في انتظار الخاص بك"
+
+msgid "Confirmed Referrals"
+msgstr "أكد الدعوات"
+
+msgid "You have referred and received free bids for signing up the following users."
+msgstr "لقد أشار وتلقت عروضا مجانية للتوقيع المستخدمين التالية."
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "Date Joined"
+msgstr "تاريخ الإلتحاق"
+
+msgid "You have not referred any members yet."
+msgstr "هل لم يشر أي عضو حتى الان."
+
+msgid "Please wait while we transfering you to the payment gateway."
+msgstr "يرجى الانتظار بينما نحن بنقلها لك لبوابة الدفع."
+
+msgid "Click here if this page appears for more than 5 seconds"
+msgstr "اضغط هنا إذا ظهرت هذه الصفحة لأكثر من 5 ثوان"
+
+msgid "We make bidding and buying really easy! Follow this basic guide."
+msgstr "نحن جعل المزايدة والشراء السهل حقا! اتباع هذا الدليل الأساسي."
+
+msgid "Register For Free"
+msgstr "التسجيل مجانا"
+
+msgid "Get free bids and use them to bid on your favorite product."
+msgstr "حصول على عروض مجانية واستخدامها لتقديم عطاءات على المنتجات المفضلة لديك"
+
+msgid "Buy Bid Packages"
+msgstr "شراء المزايدة الحزم"
+
+msgid "Purchase additional bids by clicking on the “get bids” button and following the instructions."
+msgstr "شراء عروض إضافية عن طريق النقر على زر "الحصول على عطاءات" واتباع التعليمات."
+
+msgid "Start Bidding on Items"
+msgstr "بدء المزايدة على البنود"
+
+msgid "Start bidding by clicking on the ‘bid now’ button. the price of every item starts at zero."
+msgstr "بدء تقديم العطاءات عن طريق النقر على 'محاولة الآن "زر. سعر كل بند يبدأ من الصفر."
+
+msgid "Each bid placed costs 0.7 USD and raises the item price by 0.01 USD."
+msgstr "كل محاولة وضع التكاليف 0.7 USD ويرفع سعر البند بنسبة 0.01 USD."
+
+msgid "At the end of the countdown period you will have 15 seconds to add a bid and reset the timer to 15 seconds."
+msgstr "في نهاية فترة العد التنازلي سيكون لديك 15 ثانية لإضافة محاولة وإعادة تعيين جهاز ضبط الوقت لمدة 15 ثانية."
+
+
+msgid "Win the Auctioned Item"
+msgstr "الفوز في هذا البند في المزاد"
+
+msgid "Congratulations"
+msgstr "ألف مبروك"
+
+msgid "you have won! Follow our easy checkout process to purchase your item."
+msgstr "لقد فزت! اتبع عمليتنا الخروج سهلة لشراء البند الخاص بك."
+
+
+msgid "If the timer reaches 00:00:00, the auction is closed. No new bids can be placed and the last bidder wins the right to buy the discounted product at the final auction price; if the minimum selling price is met."
+msgstr "إذا وصل الموقت 00:00:00، يتم إغلاق المزاد. يمكن وضع أي عروض جديدة وعارض الماضي فاز اليمين لشراء المنتج مخصومة سعر المزاد النهائي؛ إذا تم استيفاء الحد الأدنى لسعر البيع."
+
+msgid "Date"
+msgstr "تاريخ"
+
+msgid "Description"
+msgstr "وصف"
+
+msgid "Amount"
+msgstr "كمية"
+
+msgid "View this Auction"
+msgstr "عرض هذا المزاد"
+
+msgid "Bids Purchased"
+msgstr "عروض المشتراة"
+
+msgid "You have no account transactions at the moment."
+msgstr "لا يوجد لديك حساب المعاملات في الوقت الراهن."
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Suburb / Town"
+msgstr "ضاحية / البلدة"
+
+msgid "City / State / County"
+msgstr "المدينة / الدولة / مقاطعة"
+
+msgid "Postcode"
+msgstr "الرمز البريدي"
+
+msgid "Country"
+msgstr "بلد"
+
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+msgid "Options"
+msgstr "خيارات"
+
+msgid "Edit"
+msgstr "تحرير"
+
+msgid "Add a %s address"
+msgstr "إضافة٪ ق عنوان"
+
+msgid "Change Address"
+msgstr "تغيير العنوان"
+
+msgid "Address (line 1) *"
+msgstr "العنوان سطر 1) *"
+
+msgid "Address (line 2)"
+msgstr "عنوان (الخط 2)"	
+
+msgid "City / State / County *"
+msgstr "عنوان (الخط 2)"
+
+msgid "Post Code / Zip Code *"
+msgstr "الرمز البريدي / الرمز البريدي *"
+
+msgid "Country *"
+msgstr "بلد *"
+
+msgid "Phone"
+msgstr "هاتف"
+
+msgid "Make all your addresses this address."
+msgstr "جعل كل ما تبذلونه من عناوين هذا العنوان."
+
+msgid "<< Back to your addresses"
+msgstr "<< عودة إلى العناوين الخاصة بك"
+
+msgid "Add New Address"
+msgstr "إضافة عنوان جديد"
+
+msgid "Buy This Auction Now:"
+msgstr "شراء هذا المزاد الآن:"
+
+msgid "You are about to purchase this auction now for:"
+msgstr "كنت على وشك شراء هذا المزاد الآن ل:"
+
+msgid "Purchase this Auction Now >>"
+msgstr "شراء هذا المزاد الآن >>"
+
+msgid "These auctions have ended. Look out for more great bargains!"
+msgstr "شراء هذا المزاد الآن >>"
+
+msgid "Showing the last"
+msgstr "عرض آخر"
+
+msgid "There are no closed auctions at the moment."
+msgstr "لا توجد مزادات مغلقة في الوقت الراهن."
+
+msgid "Future Auctions"
+msgstr "مزادات المستقبلية"
+
+msgid "There are no future auctions at the moment."
+msgstr "لا توجد المزادات المستقبلية في الوقت الراهن."
+
+msgid "Future Auctions"
+msgstr "مزادات المستقبلية"
+
+msgid "There are no live auctions at the moment."
+msgstr "لا توجد مزادات حية في الوقت الراهن."
+
+msgid "You are about to pay"
+msgstr "كنت على وشك أن تدفع"
+
+msgid "plus"
+msgstr "زائد"
+
+msgid "for delivery"
+msgstr "للتوصيل"
+
+msgid "for the auction titled"
+msgstr "للمزاد بعنوان"
+
+msgid "Delivery Information"
+msgstr "معلومات التوصيل"
+
+msgid "Please confirm your address details below and ensure the details are correct before purchasing this item"
+msgstr "الرجاء التأكد من التفاصيل عنوانك أدناه وضمان التفاصيل صحيحة قبل شراء هذا البند"
+
+msgid "Missing Address information"
+msgstr "معلومات العناوين المفقودة"
+
+msgid "Before purchasing the item please <a href="/addresses">click here to update your address information</a>."
+msgstr "قبل شراء هذا البند يرجى <a href="/addresses"> انقر هنا لتحديث معلومات عنوان </A>."
+
+msgid "If you feel there is an error, or if you are unsure about anything please <a href="/contact">contact us before paying your auction</a>."
+msgstr "إذا كنت تشعر أن هناك خطأ، أو إذا لم تكن متأكدا من أي شيء يرجى <a href="/contact"> الاتصال بنا قبل أن تدفع </A> المزاد الخاص."
+
+msgid "Credits"
+msgstr "ائتمانات"
+
+msgid "Total"
+msgstr "مجموع"
+
+msgid "Less Credits"
+msgstr "أقل قروض"
+
+msgid "from your credit balance of:"
+msgstr "من رصيد الائتمان الخاصة بك من:"
+
+msgid "Total Payabale"
+msgstr "Payabale إجمالي"
+
+msgid "Payment Methods"
+msgstr "طرق الدفع"
+
+msgid "Pay Using Credit Card >>"
+msgstr "دفع عن طريق بطاقة الائتمان >>"
+
+msgid "Pay for this Auction (demo mode) >>"
+msgstr "دفع ثمن هذا مزاد (طريقة العرض) >>"
+
+msgid "Confirm Your Details >>"
+msgstr "تأكيد التفاصيل الخاصة بك >>"
+
+msgid "BIDDING"
+msgstr "بالمناقصة"
+
+msgid "Bid Butlers"
+msgstr "محاولة الخدم"
+
+msgid "Time"
+msgstr "وقت"
+
+msgid "Bidder"
+msgstr "الاعلى"
+
+msgid "Type"
+msgstr "اكتب"
+
+msgid "No bids have been placed yet."
+msgstr "وضعت أي عروض حتى الآن."
+
+msgid "Bid Butler settings"
+msgstr "ضبط محاولة بتلر"
+
+msgid "Starting Bid"
+msgstr "بدء المزايدة"
+
+msgid "Maximum bid"
+msgstr "الحد الأقصى لعرض"
+
+msgid "Buy it now!"
+msgstr "اشتر الآن!"
+
+msgid "To the highest bidder, flat rate pricing:"
+msgstr "لمن يدفع أكثر، والتسعير بسعر موحد:"
+
+msgid "To the highest bidder, flat rate pricing:"
+msgstr "لمن يدفع أكثر، والتسعير بسعر موحد:"
+
+msgid "You can bid."
+msgstr "يمكنك محاولة."
+
+msgid "Free listing! Costs nothing."
+msgstr "قائمة حرة! لا تكلف شيئا."
+
+msgid "With each bid, the auction price"
+msgstr "مع كل محاولة، سعر المزاد"
+
+msgid "Number of bids"
+msgstr "عدد العروض"
+
+msgid "Set Bid"
+msgstr "تعيين المزايدة"
+
+msgid "Your Bid Butler settings"
+msgstr "إعدادات المزايدة بتلر"
+
+msgid "LIVE"
+msgstr "حي"
+
+msgid "AUCTION"
+msgstr "مزاد علني"
+
+msgid "Bid"
+msgstr "عرض"
+
+msgid "decreases by"
+msgstr "يقلل من قبل"
+
+msgid "increases by"
+msgstr "الزيادات"
+
+msgid "CURRENT"
+msgstr "تيار"
+
+msgid "PRICE"
+msgstr "السعر"
+
+msgid "YOU SAVE"
+msgstr "أنت أحفظ"
+
+msgid "There are no won auctions at the moment."
+msgstr "لا توجد المزادات وون في الوقت الراهن."
+
+msgid "Date Won"
+msgstr "تاريخ وون"
+
+msgid "Confirm Details"
+msgstr "تأكيد تفاصيل"
+
+msgid "Pay"
+msgstr "دفع"
+
+msgid "Confirm Details"
+msgstr "تأكيد تفاصيل"
+
+msgid "You have not won any auctions yet."
+msgstr "هل لم يفز أي بالمزاد حتى الان."
+
+msgid "My BidBuddies"
+msgstr "بلدي BidBuddies"
+
+msgid "My Bid Butlers"
+msgstr "بلدي المزايدة الخدم"
+
+msgid "Are you sure you want to delete this bid butler?"
+msgstr "هل أنت متأكد أنك تريد حذف هذه الخدم العطاء؟"
+
+msgid "You have no bid butlers at the moment."
+msgstr "لا يوجد لديك الخدم محاولة في الوقت الراهن."
+
+msgid "Edit BidBuddies"
+msgstr "تحرير BidBuddies"
+
+msgid "Edit My Bid Butler for Auction:"
+msgstr "أعدلها المزايدة بتلر عن المزاد:"
+
+msgid "Please Note: Your bids will be used when the counter reaches 30 seconds."
+msgstr "يرجى ملاحظة: سيتم استخدام العطاءات الخاصة بك عندما يصل العداد 30 ثانية."
+
+msgid "Minimum Price *"
+msgstr "الحد الأدنى السعر *"
+msgid "Maximum Price *"
+msgstr "الحد الأقصى السعر *"
+
+msgid "Number of Bids to use *"
+msgstr "عدد العطاءات لاستخدام *"
+
+msgid "<< Back to my bid butlers"
+msgstr "<< عودة إلى بلدي الخدم محاولة"
+
+msgid "Add BidButler"
+msgstr "إضافة BidButler"
+
+msgid "Add a Bid Butler for Auction"
+msgstr "إضافة المزايدة بتلر للمزاد"
+
+msgid "Your bids will be used when the counter reaches"
+msgstr "وسوف تستخدم العطاءات الخاصة بك عند الروافد مكافحة"
+
+msgid "seconds."
+msgstr "ثواني."
+
+msgid "The minimum price must be at least"
+msgstr "يجب أن يكون الحد الأدنى للسعر الأقل"
+
+msgid "higher than the current bid."
+msgstr "أعلى من السعر الحالي."
+
+msgid "Add a Bid Butler >>"
+msgstr "إضافة المزايدة بتلر >>"
+
+msgid "<< Back to the auction"
+msgstr "<< العودة إلى المزاد"
+
+msgid "<< Back to the auction"
+msgstr "<< عودة إلى بلدي الخدم محاولة"
+
+msgid "placed on auction titled:"
+msgstr "وضعت على المزاد تحت عنوان:"
+
+msgid "You have no bids in your account."
+msgstr "لديك أي عروض في حسابك."
+
+msgid "You have"
+msgstr "لديك"
+
+msgid "bids in your account"
+msgstr "عروض في حسابك"
+
+msgid "My Credits"
+msgstr "بلدي قروض"
+
+msgid "Credits used on:"
+msgstr "القروض المستخدمة في:"
+
+msgid "Current Credits"
+msgstr "قروض الحالية"
+
+msgid "You have no credits at the moment."
+msgstr "لا يوجد لديك رصيد في الوقت الراهن."
+
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+msgid "BIDS"
+msgstr "المزايدات"
+
+msgid "« First"
+msgstr "«الأولى"
+
+msgid "« Previous"
+msgstr "«السابق"
+
+msgid "Next »"
+msgstr "التالى"
+
+msgid "Last »"
+msgstr "الأخيرة »"
+
+msgid "Results"
+msgstr "النتائج"
+
+msgid "you have"
+msgstr "لديك"
+
+msgid "%s bids left"
+msgstr "عطاءات٪ الصورة غادرت"
+
+msgid "Auction Description"
+msgstr "تفاصيل المزاد"
+
+msgid "Bid multiplier (number of bids deducted from your account each time you press the bid button)"
+msgstr "مضاعفة البدز(عدد البدز المخصومة من حسابك في حالة الضغط على زر 'البد'"
+
+msgid "Price at which the product is available for in the open market"
+msgstr "سعر المنتج في السوق"
+
+msgid "Countdown timer displays the time left to bid on the item .. Resets to another 15 seconds when bid placed is during the 15 second countdown period"
+msgstr "الوقت المتبقي للمزاد. يضاف 15 ثانية كلما تم الضغط على زر 'البد' في اخر 15 ثانية من العد العكسي"
+
+msgid "Orange color indicates that Auction ends today"
+msgstr "يشير اللون البرتقالي إلى أن المزاد ينتهي اليوم."
+
+msgid "Product image ( more images are available in the auction detail page )"
+msgstr "صورة المنتج (مزيد من الصور متوفرة في صفحة تفاصيل المزاد)"
+
+msgid "Minimum price needed for the item to get sold"
+msgstr "السعر الأدنى المطلوب لبيع المنتج"
+
+msgid "Current auction price"
+msgstr "السعر الحالي في المزاد"
+
+msgid ""Bid now" button allows you to place your bids in auctions"
+msgstr "يتيح لك زر 'BID NOW' المشاركة في المزاد"
+
+msgid "Our steps in more detail"
+msgstr "عرض مفصل للخطوات المتبعة"
+
+msgid "Register on the website"
+msgstr "تسجل في الموقع."
+
+msgid "Purchase the bid package"
+msgstr "اشتر باقة البدز"
+
+msgid "that suits you most"
+msgstr "التي تناسبك."
+
+msgid "Choose the item"
+msgstr "إختر المنتج الذي ترغب"
+
+msgid "you would like to bid on"
+msgstr "في المزايدة عليه."
+
+msgid "Start bidding by clicking on the 'Bid Now' button. The price of every item starts at zero. Every time you place a bid, one bid gets deducted from your account and the item's price increases by one cent"
+msgstr "إبدأ المزايدة من خلال الضغط على زر 'BID NOW'. يبدأ سعر كل منتج من الصفر. كل مرة تضغط على زر 'البد', يتم خصم البدز من حسابك ويرتفع سعر المنتج بقيمة سنت واحد."
+
+msgid "If you're the last bidder when the timer reaches zero, you've won the auction!"
+msgstr "أذا كنت المزايد الاخير وأنتهى وقت المزاد تفوز بالمنتج."
+
+msgid "You're almost done! All you still have to do is proceed to the checkout page"
+msgstr "انتهت العملية تقريباً! ما زال عليك فقط التوجه إلى صفحة الخروج."
+
+msgid "Product name & description"
+msgstr "في المزايدة عليه."

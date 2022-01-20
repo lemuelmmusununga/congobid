@@ -1,0 +1,21 @@
+<div id="ending-soon" class="box">
+	<div class="f-top clearfix"><h2><?php __('Free Auctions'); ?></h2>
+	<p><?php __('Free auctions cost nothing to bid. Free bidding, products and shipping. Tell your friends, start bidding, and good luck!');?></p></div>
+	<div class="f-repeat clearfix">
+		<div class="content">
+			<?php if(!empty($auctions)) : ?>
+				<?php echo $this->element('auctions'); ?>
+				<?php echo $this->element('pagination'); ?>
+			<?php else: ?>
+				<div class="align-center off_message"><p><?php __('There are no free auctions at the moment.');?></p></div>
+			<?php endif; ?>
+		</div>
+		<br class="clear_l">
+		<div class="crumb_bar">
+			<?php
+			$html->addCrumb(__('Free Auctions', true), '/auctions/free');
+			echo $this->element('crumb_auction');
+			?>
+		</div>
+	</div>	
+</div>

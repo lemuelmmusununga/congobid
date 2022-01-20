@@ -1,0 +1,1416 @@
+msgid "All Auctions"
+msgstr "Toutes les enchères"
+
+msgid "Live Auctions"
+msgstr "Les Enchères en cours et futures"
+
+msgid "Future Auctions"
+msgstr "Prochaines Enchères"
+
+msgid "Closed Auctions"
+msgstr "Enchères fermées"
+
+msgid "Bid Packages"
+msgstr "Achetez des Bids"
+
+msgid "How It Works"
+msgstr "Comment ça marche"
+
+msgid "Sign Up Today!"
+msgstr "Inscrivez des maintenant !"
+
+msgid "Enter your friend's number (format 243xxxxxxxxx)"
+msgstr "Entrez le numéro de votre ami (format 243xxxxxxxxx)"
+
+msgid "How CongoBid Works"
+msgstr "Fonctionnement de CongoBid"
+
+msgid "FAQ's"
+msgstr "FAQ"
+
+msgid "Watch Tutorial"
+msgstr "Regarder le didacticiel"
+
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+msgid "Balance"
+msgstr "Solde"
+
+msgid "My Account"
+msgstr "Mon compte"
+
+msgid "Logout"
+msgstr "Déconnexion"
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "Register"
+msgstr "S'inscrire"
+
+msgid "Welcome"
+msgstr "Bienvenue"
+
+msgid "Faq"
+msgstr "Faq"
+
+msgid "FAQs"
+msgstr "FAQs"
+
+msgid "Invite Your Friends"
+msgstr "Invitez vos amis"
+
+msgid "and get free bids"
+msgstr "et obtenez des Bids gratuits"
+
+msgid "Invite Friends"
+msgstr "Invitez des amis"
+
+msgid "Welcome to Congo Bid -  Congo Bid allows you to acquire what you have always dreamed of at prices defying all standards, for the simple reason that you are the one who decides the price to pay."
+msgstr "Bienvenue à Congo Bid - Congo Bid vous permet d’acquérir ce dont vous avez toujours rêvé à des prix défiant toutes les normes, pour la simple raison que c’est vous qui décidez du prix à payer."
+
+msgid "Quick Links"
+msgstr "Liens rapides"
+
+msgid "Join Now!"
+msgstr "Inscrivez vous maintenant!"
+
+msgid "Join Now"
+msgstr "Inscrivez vous maintenant"
+
+msgid "PIN can be number only"
+msgstr ""Le mode de passe doit contenir au minimum 6 caractères compris des chiffres et des lettres"
+
+msgid "Email address is required."
+msgstr "Adresse e-mail est nécessaire."
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "About Us"
+msgstr "À propos de nous"
+
+msgid "Terms & Conditions"
+msgstr "Termes & Conditions"
+
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+msgid "follow us on"
+msgstr "suivez-nous sur"
+
+msgid "All Rights Reserved."
+msgstr "Tous droits réservés."
+
+msgid "Value"
+msgstr "Prix du marché"
+
+msgid "Sold"
+msgstr "Vendu"
+
+msgid "Register or login to bid"
+msgstr "Connectez-vous pour Bider"
+
+msgid "Bid Now"
+msgstr "Bidez maintenant"
+
+msgid "join now"
+msgstr "inscrivez-vous"
+
+msgid "Join now and get 5 free bids"
+msgstr "Inscrivez-vous dès maintenant et obtenez 5 Bids gratuites"
+
+msgid "Purchase Bids"
+msgstr "Achetez des Bids"
+
+msgid "Purchase the bids package that suits you most"
+msgstr "Achetez les offres qui vous convient le mieux"
+
+msgid "Start Bidding"
+msgstr "Commencez à Bider"
+
+msgid "Choose the item you would like to bid on"
+msgstr "Choisissez votre article et commencer a Bider"
+
+msgid "Check Out"
+msgstr "Check Out"
+
+msgid "Use our secure payment gateway to checkout with PayPal or Card"
+msgstr "Utilisez notre passerelle de paiement sécurisée et payer avec votre carte Visa/Mastercard ou votre compte Mobile Money"
+
+msgid "View"
+msgstr "Voir"
+
+msgid "Just Ask"
+msgstr "Il suffit de demander"
+
+msgid "Have a question that the FAQ’s did not answer? Email us at info@CongoBid.com "
+msgstr "Vous avez une question à qui la FAQ n’a pas répondu? Envoyez-nous un courriel faq@CongoBid.com ou appelez nous au (0900090005) "
+
+msgid "Earn Free Bids!"
+msgstr "Gagnez des Bids gratuits!"
+
+msgid "CongoBid consistently hands out free bids and packs. Follow us on twitter @CongoBid ,and on Instagram @CongoBid to stay up to date with the latest exclusive offerings and promotions."
+msgstr "CongoBid remet constamment des offres et des Bids gratuits. Suivez-nous sur twitter @CongoBid, Facebook CongoBid et sur Instagram @CongoBid pour rester à jour avec les dernières offres exclusives et promotions."
+
+msgid "Wide Variety of Products"
+msgstr "Grande variété de produits"
+
+msgid "We at CongoBid pride ourselves in offering a vast selection of TCG products. Are we missing something? Let us know through Support."
+msgstr "Chez CongoBid, nous sommes fiers d’offrir une vaste sélection de produits. Il nous manque quelque chose ? Faites-le nous savoir."
+
+msgid "There are no future auctions at the moment."
+msgstr "Il n’y a pas de futures enchères pour le moment."
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "These auctions have ended. Look out for more great bargains!"
+msgstr "Ces enchères sont terminées. Attention à d’autres bonnes affaires!"
+
+msgid "Showing the last"
+msgstr "Affichage de la dernière"
+
+msgid "Auctions"
+msgstr "Ventes aux Enchères"
+
+msgid "There are no closed auctions at the moment."
+msgstr "Il n’y a pas d’enchères fermées pour le moment."
+
+msgid "Auction Ended"
+msgstr "Enchère terminée"
+
+msgid "Buy Bids"
+msgstr "Achetez des Bids"
+
+msgid "Which Package Is Right For You?"
+msgstr "Quel offre vous convient?"
+
+msgid "Coupon code applied : %s"
+msgstr "Code coupon appliqué : %s"
+
+msgid "Remove Coupon"
+msgstr "Supprimer le coupon"
+
+msgid "If you have a coupon or discount code enter it in below to receive a discount."
+msgstr "Si vous avez un coupon ou un code de réduction, entrez-le ci-dessous pour bénéficier d’un rabais."
+
+msgid "Coupon Code:"
+msgstr "Code Coupon:"
+
+msgid "Apply Coupon"
+msgstr "Appliquer le Code Coupon"
+
+msgid "Perfect For Beginners"
+msgstr "Parfait pour les débutants"
+
+msgid "Bids"
+msgstr "Bids"
+
+msgid "Purchase"
+msgstr "Acheter"
+
+msgid "There are no packages at the moment."
+msgstr "Il n’y a pas d’offres pour le moment."
+
+msgid "My %s"
+msgstr "Mes %s"
+
+msgid "You currently have"
+msgstr "Vous avez actuellement"
+
+msgid "%s bids."
+msgstr "%s Bids."
+
+msgid "Purchase some bids"
+msgstr "Achetez quelques Bids"
+
+msgid "You currently have unpaid"
+msgstr "Vous avez payer"
+
+msgid "%s auction."
+msgstr "%s enchères."
+
+msgid "View your won auctions"
+msgstr "Voir vos enchères gagnées"
+
+msgid "You currently have %s Unpaid Bought Products.."
+msgstr "Vous avez actuellement %s produits achetés non payés.."
+
+msgid "User Registration Information"
+msgstr "Informations d’inscription des utilisateurs"
+
+msgid "View User Details"
+msgstr "Afficher les détails de l’utilisateur"
+
+msgid "Your Subscription Details"
+msgstr "Détails de votre Souscription"
+
+msgid "Current Plan:"
+msgstr "Catégorie actuel:"
+
+msgid "Days remaining:"
+msgstr "Jours restants :"
+
+msgid "Things to do:"
+msgstr "Choses à faire:"
+
+msgid "Things to do"
+msgstr "Choses à faire"
+
+msgid "Add a"
+msgstr "Ajouter une"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Pay for an Auction"
+msgstr "Payez pour une  enchère"
+
+msgid "Are you Sure? you want to signup for Plan"
+msgstr "Etes-vous sûr? vous souhaitez vous inscrire a la catégorie"
+
+msgid "My Congo Bid"
+msgstr "Mon  CongoBid"
+
+msgid "My BidBuddies"
+msgstr "Mes Biddeurs"
+
+msgid "You have not won any auctions yet."
+msgstr "Vous n’avez pas encore gagné d’enchères."
+
+msgid "Earn %s free bids on the first bid package that any of your referrals purchase."
+msgstr "Gagnez %s Bids gratuits sur le premier achat que l’un de vos référé achète."
+
+msgid "Ask the new user to enter in your username or email address in the 'Referrer' box when they register, or simply ask them to vist the following link:" 
+msgstr "Demandez au nouvel utilisateur d’entrer votre numéro de téléphone ou votre adresse e-mail dans la case « Referrer » lorsqu’il s’inscrit, ou demandez-lui simplement de vister le lien suivant :"
+
+msgid "Pending referrals are users whom you have referred, that have not purchased bids yet."
+msgstr "Les références en attente sont des utilisateurs que vous avez référés, qui n’ont pas encore Souscrit."
+
+msgid "Welcome to CongoBid - Home of TCG bidding fee auctions. We offer a wide variety of sets, booster boxes, tins, blister and vintage packs, as well as individual cards."
+msgstr "Bienvenue sur CongoBid - Le premier site de vente aux enchères adapté pour l’Afrique. Congo Bin vous permet d’acquérir  des articles jusqu’a 90% de réduction du prix de marche en proposant le prix qui vous convient d’acheter."
+
+msgid "Pin"
+msgstr "Mot de passe"
+
+msgid "Phone Number like"
+msgstr "Format du Numéro de téléphone"
+
+msgid "Sex"
+msgstr "Sexe"
+
+msgid "Recover Your Password"
+msgstr "Récouver votre mot de passe"
+
+msgid "Enter your email address and we will send you an email with a recovery password"
+msgstr "Entrez votre numéro de téléphone et nous vous enverrons un e-mail avec un mot de passe de récupération"
+
+msgid "SEND"
+msgstr "ENVOYER"
+
+msgid "Each bid reverts the timer back to"
+msgstr "Chaque enchère ramène la minuterie à"
+
+msgid "Highest bidder wins!"
+msgstr "Le plus offrant gagne!"
+
+msgid "DO NOT wait until there are one or two seconds left to bid!"
+msgstr "N’attendez pas qu’il reste une ou deux secondes pour Bider!"
+
+msgid "Minimum Price"
+msgstr "Prix Congobid"
+
+msgid "The Bid Buddy will place bids for you while you are away. Enter the amount of bids you are willing to allow the Buddy to place, and hit 'Set'. Refresh the page to see the number of remaining bids. To adjust the number of bids in your Buddy, type in a new number and click 'Set'. Unused bids will be refunded."
+msgstr "Le Bid Buddy placera des offres pour vous pendant votre absence. Entrez le montant des enchères que vous êtes prêt à autoriser le copain à placer et cliquez sur "Définir". Actualisez la page pour voir le nombre d'enchères restantes. Pour ajuster le nombre d'enchères dans votre Buddy, saisissez un nouveau nombre et cliquez sur "Définir". Les offres non utilisées seront remboursées."
+
+msgid "Auction Info"
+msgstr "Informations sur les enchères"
+
+msgid "None provided"
+msgstr "Non fourni"
+
+msgid "Check out our answers to the most commonly asked questions"
+msgstr "Consultez nos réponses aux questions les plus fréquemment posées"
+
+msgid "Click here to find out how it works! For more detailed answers, visit the FAQ’s"
+msgstr "Cliquez ici pour savoir comment cela fonctionne! Pour obtenir des réponses plus détaillées, visitez le FAQ"
+
+msgid "Have a question? Let us help!"
+msgstr "Vous avez une question? Nous sommes a votre disposition!"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Verification"
+msgstr "Vérification"
+
+msgid "You have been successfully logged out"
+msgstr "Vous avez été connecté avec succès"
+
+msgid "You have been successfully logged out."
+msgstr "Vous avez été connecté avec succès."
+
+msgid "Submit"
+msgstr "Envoyer"
+
+msgid "Invalid username or password. Please try again."
+msgstr "Nom d'utilisateur ou mot de passe incorrect. Veuillez réessayer."
+
+msgid "Live"
+msgstr "Live"
+
+msgid "The user"
+msgstr "L'utilisateur"
+
+msgid "has won"
+msgstr "a gagné"
+
+msgid "this auction for"
+msgstr "cet article pour"
+
+msgid "Finished"
+msgstr "Terminé"
+
+msgid "Congratulations"
+msgstr "Félicitations"
+
+msgid "Congratulation"
+msgstr "Félicitation"
+
+msgid "This auction its closed, the winner is"
+msgstr "Cette enchère est fermée, le gagnant est"
+
+msgid "The auction is finished, the user"
+msgstr "L’enchère est terminée, l’utilisateur"
+
+msgid "Time Left"
+msgstr "Temps restant"
+
+msgid "Buy Now!"
+msgstr "Achetez maintenant!"
+
+msgid "Don't Lose Your Bids! Use our Buy Now option and apply your bids towards the price."
+msgstr "Ne perdez pas vos enchères! Utilisez notre option Buy Now et appliquez vos Bids pour couvrir le prix."
+
+msgid "Save over"
+msgstr "Économisez sur"
+
+msgid "Learn More"
+msgstr "En savoir plus"
+
+msgid "News"
+msgstr "Actualités"
+
+msgid "Email Us"
+msgstr "Envoyez-nous un email"
+
+msgid "General Info"
+msgstr "Informations générales"
+
+msgid "Check our"
+msgstr "Vérifier notre"
+
+msgid "for more answers"
+msgstr "pour plus de réponses"
+
+msgid "You have"
+msgstr "Vous avez"
+
+msgid "%s bids left"
+msgstr "%s Bids restant"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "Privacy"
+msgstr "Confidentialité"
+
+msgid "Follow Us"
+msgstr "Suivez-nous"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "No Bids"
+msgstr "Aucun Bid"
+
+msgid "increase"
+msgstr "augmentation"
+
+msgid "Dash Board"
+msgstr "Tableau de bord"
+
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+msgid "Change Password"
+msgstr "Modifier le mot de passe"
+
+msgid "My Addresses"
+msgstr "Mes adresses"
+
+msgid "My Watchlist"
+msgstr "Mes favoris"
+
+msgid "Won Auctions"
+msgstr "Enchères gagnées"
+
+msgid "My Bids"
+msgstr "Mes Bids"
+
+msgid "Referrals"
+msgstr "Parrainages"
+
+msgid "Invite My Friends"
+msgstr "Inviter mes amis"
+
+msgid "Cancel My Account"
+msgstr "Annuler mon compte"
+
+msgid "Auction Price"
+msgstr "Prix aux enchères"
+
+msgid "Retail Price"
+msgstr "Prix de marché"
+
+msgid "Buy Now Price"
+msgstr "Prix d'achat immédiat"
+
+msgid "Soon"
+msgstr "Bientôt"
+
+msgid "Bidding History"
+msgstr "Historique des enchères"
+
+msgid "Bid"
+msgstr "Bid"
+
+msgid "Auction ID"
+msgstr "N° de l'enchère"
+
+msgid "Auction Type"
+msgstr "Type d’enchères"
+
+msgid "Start Time"
+msgstr "Heure de début"
+
+msgid "Each bid on this auction will deduce in"
+msgstr "Chaque Bids de cette vente aux enchères réduira de"
+
+msgid "bid your bid balance."
+msgstr "enchérir sur le solde de vos Bids."
+
+msgid "Remove from Watchlist"
+msgstr "Supprimer de la liste des favoris"
+
+msgid "Add to Watchlist"
+msgstr "Ajouter à votre liste des favoris"
+
+msgid "Price Increment"
+msgstr "Augmentation des prix"
+
+msgid "Lot Number"
+msgstr "Numéro de lot"
+
+msgid "Shipment"
+msgstr "Expédition"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "You are not authorized to access that location."
+msgstr "Vous n'êtes pas autorisé à accéder à cet emplacement."
+
+msgid "Penny Auction"
+msgstr "Vente aux enchères Penny"
+
+msgid "Buddy"
+msgstr "Biddeur"
+
+msgid "Free Auctions"
+msgstr "Enchères gratuites"
+
+msgid "Frequently Asked Questions"
+msgstr "Questions fréquentes"
+
+msgid "Purchase Using Paypal"
+msgstr "Achat à l’aide du moyen de paiement"
+
+msgid "Free Bids"
+msgstr "Bids gratuits"
+
+msgid "Purchase Using TAP"
+msgstr "Achat à l’aide de la carte bancaire Visa ou Mastercard"
+
+msgid "We are here to assist you"
+msgstr "Nous sommes là pour vous aider"
+
+msgid "2 EASY WAYS to stay in touch"
+msgstr "2 FAÇONS FACILES de rester en contact"
+
+msgid "My Dash Board"
+msgstr "Mon tableau de bord"
+
+msgid "You have no things to do at the moment."
+msgstr "Vous n’avez rien à faire pour le moment."
+
+msgid "You currently have %s bids."
+msgstr "Vous avez actuellement %s Bids."
+
+msgid "Click here to purchase some bids"
+msgstr "Cliquez ici pour acheter des Bids"
+
+msgid "You currently have %s unpaid auction(s)."
+msgstr "Vous avez  %s enchères non payées."
+
+msgid "Edit Account"
+msgstr "Modifier le compte"
+
+msgid "Full Name"
+msgstr "Nom Complet"
+
+msgid "Alias"
+msgstr "Pseudo"
+
+msgid "Code Pin"
+msgstr "Mot de passe"
+
+msgid "Referrer"
+msgstr "Referreur"
+
+msgid "Username *"
+msgstr "Nom d'utilisateur *"
+
+msgid "First Name *"
+msgstr "Prénom *"
+
+msgid "Email *"
+msgstr "Email *"
+
+msgid "Last Name *"
+msgstr "Nom *"
+
+msgid "Date of Birth"
+msgstr "Date de naissance"
+
+msgid "Gender *"
+msgstr "Sexe *"
+
+msgid "Sign up for the newsletter?"
+msgstr "Inscrivez-vous à la newsletter ?"
+
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+msgid "Old Password"
+msgstr "Ancien mot de passe"
+
+msgid "New Password"
+msgstr "Nouveau mode de passe"
+
+msgid "Retype Password"
+msgstr "Retaper le mot de pass"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Suburb / Town"
+msgstr "Ville"
+
+msgid "City / State / County"
+msgstr "Ville / État / Comté"
+
+msgid "Postcode"
+msgstr "Code Postal"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Add a %s address"
+msgstr "Ajouter une %s adresse"
+
+msgid "Add New Address"
+msgstr "Ajouter une nouvelle adresse"
+
+msgid "Name *"
+msgstr "Nom *"
+
+msgid "Address (line 1) *"
+msgstr "Adresse (ligne 1) *"
+
+msgid "Address (line 2)"
+msgstr "Adresse (ligne 2)"
+
+msgid "City / State / County *"
+msgstr "Ville / État / Comté *"
+
+msgid "Post Code / Zip Code *"
+msgstr "Code postal / Code postal *"
+
+msgid "Country *"
+msgstr "Pays *"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Make all your addresses this address."
+msgstr "Définissez toutes vos adresses à celle-ci."
+
+msgid "There are no live auctions at the moment."
+msgstr "Il n’y a pas de ventes aux enchères en cours pour le moment."
+
+msgid "<< Back to your addresses"
+msgstr "<< retour à vos adresses"
+
+msgid "Change Address"
+msgstr "Modifier l’adresse"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "End Time"
+msgstr "Heure de fin"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Are you sure you want to delete this auction from your watchlist?"
+msgstr ""
+"Etes-vous sûr de vouloir supprimer cette enchère de votre liste de favoris ?"
+
+msgid "You are not watching any auctions at the moment."
+msgstr "Vous ne suivez aucune  enchère favoris pour le moment."
+
+msgid "Date Won"
+msgstr "Date gagnée"
+
+msgid "Pay"
+msgstr "Payer"
+
+msgid "See All live auction"
+msgstr "Voir toutes les enchères en cours"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Debit"
+msgstr "Débit"
+
+msgid "Credit"
+msgstr "Crédit"
+
+msgid "You have no bids in your account."
+msgstr "Vous n’avez pas des bids dans votre compte."
+
+msgid "Bids purchased - package name:"
+msgstr "Bids achetés - nom de l’offre:"
+
+msgid "Single Bid placed on auction titled"
+msgstr "Bid  Payé a l’enchère intitulée"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "You have no account transactions at the moment."
+msgstr "Vous n’avez aucune transaction sur votre compte pour le moment."
+
+msgid "Bids purchased - package name"
+msgstr "Bids achetés - nom de l’offre"
+
+msgid "Earn %s free bids each time you refer a user who signs up and purchases some bids."
+msgstr "Gagnez %s Bids gratuits chaque fois que vous référez un utilisateur qui s’inscrit et achète des bids."
+
+
+msgid "Ask the new user to enter in your username or email address in the 'Refer' box when they register, or simply ask them to vist the following link:"
+msgstr "Demandez au nouvel utilisateur d’entrer votre numéro de téléphone ou votre adresse e-mail dans la case « Référez-vous » lorsqu’il s’inscrit, ou  demandez-lui simplement de vister le lien suivant :"
+
+msgid "You can also invite members from various social network websites and popular free email services by %s."
+msgstr "Vous pouvez également inviter des membres de divers sites web de réseaux sociaux et des services de messagerie gratuits populaires par %s."
+
+msgid "Pending Referrals"
+msgstr "Invitation en attente"
+
+msgid "Pending referrals are users who you have referred who have not purchased any bids yet."
+msgstr "Les références en attente sont des utilisateurs que vous avez référés qui n’ont pas encore acheté d’enchères."
+
+msgid "Click here to view your pending referrals"
+msgstr "Cliquez ici pour voir vos invitations en attente"
+
+msgid "Confirmed Referrals"
+msgstr "Invitation confirmées"
+
+msgid "You have not referred any members yet."
+msgstr "Vous n’avez pas encore invitez des membres."
+
+msgid "You do not have any pending referrals at the moment."
+msgstr "Vous n’avez pas d’invitation en attente pour le moment."
+
+msgid "You will receive 10% free bids on the first package any of your friends purchase."
+msgstr "Vous recevrez 10 % des Bids sur le premier achat que l’un de vos amis effectue."
+
+
+msgid "Invite Now"
+msgstr "Invitez maintenant"
+
+msgid "Invite Message"
+msgstr "Message d’invitation"
+
+msgid "Latest News"
+msgstr "Dernières actualités"
+
+msgid "Date & Time Posted"
+msgstr "Date et heure publiées"
+
+msgid "<< Back to news"
+msgstr "<< retour aux nouvelles"
+
+msgid "There is no news at the moment."
+msgstr "Il n'y a pas de actualité pour le moment."
+
+msgid "Already a Member?"
+msgstr "Déjà membre?"
+
+msgid "Please Login"
+msgstr "Veuillez vous connecter"
+
+msgid "Signup"
+msgstr "S'inscrire"
+
+msgid "Remember Me"
+msgstr "Se souvenir de moi"
+
+msgid "Don't have an account?"
+msgstr "Vous n'avez pas de compte?"
+
+msgid "Forgot your password"
+msgstr "Mot de passe oublié"
+
+msgid "I'M NEW HERE"
+msgstr "JE SUIS NOUVEAU ICI"
+
+msgid "If you don’t have an account yet, you will need to register to start bidding."
+msgstr "Si vous n’avez pas encore de compte, vous devrez vous inscrire pour commencer à Bider."
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Password Confirmation"
+msgstr "Confirmation du mot de passe"
+
+msgid "Format of phone number (ex: 243xxxxxxxxx). Note it will be your username"
+msgstr "Format code pays + numero (ex: 243xxxxxxxxx). Notez que ceci sera votre identifiant"
+
+msgid "I have read and agree to the CongoBid.com  <a target='_blank' href='/page/terms-and-conditions'>Terms and Conditions </a> and  <a target='_blank' href='/page/privacy-policy'> Privacy Policy </a>. I also agree that I am at least 18 years of age and to only open one account"
+msgstr "J'ai lu et j'accepte les conditions générales et la politique de confidentialité de <a target='_blank' href='/page/terms-and-conditions'>CongoBid.com.</a>"
+
+msgid "I would like to receive emails regarding FREE Bids and other promotions"
+msgstr "Je souhaite recevoir des e-mails concernant les offres GRATUITES et autres promotions"
+
+msgid "Please enter your email."
+msgstr "Entrez votre e-mail."
+
+msgid "Your Email"
+msgstr "Votre Email"
+
+msgid "An sms containing your account details has been sent. Please check your sms."
+msgstr "Un sms contenant les détails de votre compte a été envoyé. Veuillez vérifier vos sms."
+
+msgid "The phone number address you entered is not assigned to any member."
+msgstr "L’adresse téléphone que vous avez saisie n’est attribuée à aucun membre.""
+
+msgid "Reset Your Password"
+msgstr "Réinitialisez votre mot de passe"
+
+msgid "Send Details"
+msgstr "Envoyez les détails"
+
+msgid "To change your password enter in your old password and your new password twice."
+msgstr "Pour modifier votre Code Pin entrer votre ancien Code Pin et votre nouveau Code Pin deux fois."
+
+msgid "Invalid Auction."
+msgstr "Enchère invalide."
+
+msgid "There was a problem creating your account please review the errors below and try again."
+msgstr "Il y avait un problème de création de votre compte s’il vous plaît examiner les erreurs ci-dessous et essayer à nouveau."
+
+msgid "Activate your account"
+msgstr "Activez votre compte"
+
+msgid "Enter Your SMS code to activate your account."
+msgstr "Entrez votre code SMS pour activer votre compte."
+
+msgid "Resend sms"
+msgstr "Renvoyez le message"
+
+msgid "Verify Now!"
+msgstr "Vérifiez maintenant!"
+
+msgid "LIVE"
+msgstr "EN COURS"
+
+msgid "AUCTION"
+msgstr "ENCHERE"
+
+msgid "Time"
+msgstr "Heure"
+
+msgid "Bidder"
+msgstr "Biddeur"
+
+msgid "Manage"
+msgstr "Gérer"
+
+msgid "Set"
+msgstr "Définir"
+
+msgid "Product Description"
+msgstr "Description du produit"
+
+msgid "Shipping Information"
+msgstr "Informations sur la livraison"
+
+msgid "Shipping"
+msgstr "Livraison"
+
+msgid "Latest Prices"
+msgstr "Derniers prix"
+
+msgid "BIDS REMAINING"
+msgstr "BIDS RESTANTS"
+
+msgid "BidAgent monitors your auctions when you cannot be on line, or when you would like to have bids placed automatically for you."
+msgstr "BidAgent surveille vos enchères lorsque le denier vous ne pouvez pas être en ligne, ou lorsque vous souhaitez que les enchères soient placées automatiquement pour vous."
+
+msgid "Recovery Your Password"
+msgstr "Recouvrer votre mot de passe"
+
+msgid "Write your account email and will receibe the intruction to recovery password in your emai"
+msgstr "Tapez votre numéro de téléphone pour recevoir votre Code Pin"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Invalid Activation code."
+msgstr "Code d'activation invalide."
+
+msgid "Your account is activated, you can login now."
+msgstr "Votre compte est activé, vous pouvez vous connecter maintenant."
+
+msgid "Buy it now!"
+msgstr "Achetez-le maintenant!"
+
+msgid "With each bid, the auction price"
+msgstr "À chaque Bid, le prix de l’enchère"
+
+msgid "decreases by"
+msgstr "diminue de"
+
+msgid "Register now"
+msgstr "Inscrivez-vous maintenant"
+
+msgid "You are about to pay"
+msgstr "Vous êtes sur le point de payer"
+
+msgid "Support 24/7"
+msgstr "Prise en charge 24h/24 et 7j/7"
+
+msgid "plus"
+msgstr "plus"
+
+msgid "General"
+msgstr "Général"
+
+msgid "General Support"
+msgstr "Support Général"
+
+msgid "Products"
+msgstr "Produits"
+
+msgid "Accounts"
+msgstr "Comptes"
+
+msgid "Payments"
+msgstr "Paiements"
+
+msgid "for delivery"
+msgstr "pour la livraison"
+
+msgid "Keep In Touch!"
+msgstr "On reste en contact!"
+
+msgid "Delivery Information"
+msgstr "Informations de livraison"
+
+msgid "Please confirm your address details below and ensure the details are correct before purchasing this item"
+msgstr "Veuillez confirmer les détails de votre adresse ci-dessous et vous assurer que les détails sont corrects avant d’acheter cet article."
+
+msgid "Missing Address information"
+msgstr "Informations manquantes sur l’adresse"
+
+msgid "Before purchasing the item please <a href=\"/addresses\">click here to update your address information</a>."
+msgstr "Avant d’acheter l’article <a href=\"/addresses\">s’il vous plaît cliquez ici pour mettre à jour vos informations d’adresse</a>."
+
+msgid "If you feel there is an error, or if you are unsure about anything please <a href=\"/contact\">contact us before paying your auction</a>."
+msgstr "Si vous sentez qu’il ya une erreur, ou si vous n’êtes pas sûr de quoi que ce soit s’il <a href=\"/contact\">vous plaît contactez-nous avant de payer  votre enchère</a>."
+
+msgid "Buy This Auction Now:"
+msgstr "Acheter cet article maintenant:"
+
+msgid "You are about to purchase this auction now for:"
+msgstr "Vous êtes sur le point d’acheter cet article pour:"
+
+msgid "Purchase this Auction Now >>"
+msgstr "Achetez cet article maintenant >>"
+
+msgid "You have successfully won this auction."
+msgstr "Vous avez remporté cet enchère avec succès."
+
+msgid "for the auction titled"
+msgstr "pour la vente aux enchères intitulée"
+
+msgid "Current Plan"
+msgstr "Catégorie actuel"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "pay %s bids and Upgrade to Plan %s so you will able to bid products value up to %s"
+msgstr "PAYEZ %s BIDS ET ACCEDER A LA CATEGORIE %s POUR BIDER SUR LES ARTICLES ALLANT JUSQU'A %s"
+
+msgid "You cannot bid as you are already the latest bidder"
+msgstr "Vous êtes le dernier bideur"
+
+msgid "Full name may only contain alphabets and numbers only"
+msgstr "Le Nom complet ne peut contenir que des lettres"
+
+msgid "Alias may only contain alphabets and numbers only"
+msgstr "Le Pseudo ne peut contenir que des lettres"
+
+msgid "PIN is a required field."
+msgstr "Mot de passe est un champ obligatoire."
+
+msgid "A phone number is required."
+msgstr "Le numéro de téléphone est requis."
+
+msgid "You must accept the congobid.com terms and conditions to register"
+msgstr "Vous devez accepter les conditions générales de congobid.com pour vous inscrire"
+
+msgid "Verify now"
+msgstr "Vérifiez maintenant"
+
+msgid "PIN must be 6 digit long."
+msgstr "Le mot de passe doit contenir un minimum de 6 caractères."
+
+msgid "The phone number is already registered."
+msgstr "Ce numéro est déjà inscrit."
+
+msgid "Male"
+msgstr "Masculin"
+
+msgid "Female"
+msgstr "Feminin"
+
+msgid "Are you Sure? you want to signup for Plan "
+msgstr "Êtes-vous sûr de passer à la catégorie "
+
+msgid "Transfer bids"
+msgstr "Transférez des Bids"
+
+msgid "Transfer"
+msgstr "Transfert"
+
+msgid "Invalid Phone Number or not registered"
+msgstr "Numéro de téléphone invalide ou non enregistré"
+
+msgid "You can not sent bids to your self"
+msgstr "Vous ne pouvez pas transférer sur votre propre numéro"
+
+msgid "Password is wrong"
+msgstr "Le mot de passe est incorrect"
+
+msgid "Insufficient balance, you can only sent 50 "
+msgstr "Solde insuffisant, vous ne pouvez envoyer que 50 "
+
+msgid "Transfer bids to:"
+msgstr "Transférez des bids vers:"
+
+msgid "Received bids from: "
+msgstr "Bids reçues de: "
+
+msgid "Bids Transfered"
+msgstr "Bids transférés"
+
+msgid "You must have minimum 50 bids so you can send."
+msgstr "Vous devez avoir au minimum 50 bids pour pouvoir envoyer."
+
+msgid "You will receive 20% free bids on the first package any of your friends purchase."
+msgstr "Vous recrevrez 10% de bids gratuit au premier achat de votre ami."
+
+msgid "We have sent the email invitations to your friends."
+msgstr "Nous avons envoyé les invitations par sms à vos amis."
+
+msgid "Hello"
+msgstr "Salut"
+
+msgid "Invalid %s or %s. Please try again."
+msgstr "Invalide %s ou alors %s. Veuillez réessayer."
+
+msgid "Invalid format use like eg. 243815237009"
+msgstr "Format invalide, ex. 243XXXXXXXX"
+
+msgid "The email was already used by another user."
+msgstr "L'e-mail a déjà été utilisé par un autre utilisateur."
+
+msgid "The phone number can be numbers only eg. 243815237009"
+msgstr "Le numéro de téléphone ne peut être que des chiffres, par exemple. 243815237009"
+
+msgid "The old password you entered is incorrect."
+msgstr "L'ancien mot de passe que vous avez entré est incorrect."
+
+msgid "Alias is required."
+msgstr "L'alias est obligatoire."
+
+msgid "Full name is required."
+msgstr "Le nom complet est requis."
+
+msgid "Mobile can be a number only."
+msgstr "Le téléphone ne doit contenir que des chiffres."
+
+msgid "The email address you entered is not valid."
+msgstr "L'adresse e-mail que vous avez saisie n'est pas valide."
+
+msgid "Email and confirm email do not match."
+msgstr "L'e-mail et l'e-mail de confirmation ne correspondent pas."
+
+msgid "The confirm email you entered is not valid."
+msgstr "L'e-mail de confirmation que vous avez entré n'est pas valide."
+
+msgid "Confirm email is required."
+msgstr "Un e-mail de confirmation est requis."
+
+msgid "The referrer username or email address you entered does not exist."
+msgstr "Le nom d'utilisateur ou l'adresse e-mail du référent que vous avez entré n'existe pas. "
+
+msgid "The referrer code you entered does not exist."
+msgstr "Le code référent que vous avez entré n'existe pas."
+
+msgid "Please provide a valid phone number."
+msgstr "Veuillez fournir un numéro de téléphone valide."
+
+msgid "Account Reset - %s"
+msgstr "Réinitialisation du compte -% s"
+
+msgid "CongoBid New PIN is: "
+msgstr "Le nouveau mot de passe est: "
+
+msgid "CongoBid Activation code is: "
+msgstr "Le code d'activation CongoBid est: "
+
+msgid "Referral Made"
+msgstr "Référence faite"
+
+msgid "Account Created by Admin - %s"
+msgstr "Compte créé par l'administrateur - %s"
+
+msgid "Account Activation - %s"
+msgstr "Activation de compte - %s"
+
+msgid "There was a problem submitting the contact form please review the errors below and try again."
+msgstr "Un problème est survenu lors de l'envoi du formulaire de contact. Veuillez consulter les erreurs ci-dessous et réessayer."
+
+msgid "Name is required"
+msgstr "Le nom est requis"
+
+msgid "Enquiry is required"
+msgstr "Une enquête est requise"
+
+msgid "The coupon you applied is no longer exist. Please enter another coupon."
+msgstr "Le coupon que vous avez appliqué n'existe plus. Veuillez saisir un autre coupon."
+
+msgid "Coupon is expired"
+msgstr "Le coupon est expiré"
+
+msgid "You already used this coupon"
+msgstr "Vous avez déjà utilisé ce coupon"
+
+msgid "This coupon is already used"
+msgstr "Ce coupon est déjà utilisé"
+
+msgid "The coupon has been applied."
+msgstr "Le coupon a été appliqué."
+
+msgid "Invalid Coupon"
+msgstr "Coupon invalide"
+
+msgid "The coupon has been removed."
+msgstr "Le coupon a été supprimé."
+
+msgid "You are not apply any coupon yet."
+msgstr "Vous n'appliquez pas encore de coupon."
+
+msgid "Invalid Package"
+msgstr "Package invalide"
+
+msgid "Invalid Currency"
+msgstr "Devise invalide"
+
+msgid "Invalid User"
+msgstr "Utilisateur invalide"
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+msgid "Billing"
+msgstr "Facturation"
+
+msgid "There was a problem updating your account please review the errors below and try again."
+msgstr "Un problème est survenu lors de la mise à jour de votre compte. Veuillez consulter les erreurs ci-dessous et réessayer."
+
+msgid "Manage Addresses"
+msgstr "Gérer les adresses"
+
+msgid "There was a problem adding the address, please correct the errors below."
+msgstr "Un problème est survenu lors de l'ajout de l'adresse, veuillez corriger les erreurs ci-dessous."
+
+msgid "Name is required."
+msgstr "Le nom est requis."
+
+msgid "Address (line 1) is required."
+msgstr "L'adresse (ligne 1) est requise."
+
+msgid "Post Code / Zip Code is required."
+msgstr "Le code postal / code postal est requis."
+
+msgid "City / State is required."
+msgstr "Ville / État est obligatoire."
+
+msgid "Please select a country from the dropdown."
+msgstr "Veuillez sélectionner un pays dans la liste déroulante."
+
+msgid "Add Address"
+msgstr "Ajoutez l'adresse"
+
+msgid "Update Address"
+msgstr "Mettre à jour l'adresse"
+
+msgid "Address 1"
+msgstr "Adresse 1"
+
+msgid "Address 2"
+msgstr "Adresse 2"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Current Balance"
+msgstr "Solde actuel"
+
+msgid "Add BidBuddies"
+msgstr "Ajouter des Biddeurs automatique"
+
+msgid "Add a Bid Butler for Auction"
+msgstr "Ajouter un biddeur automatique pour l’enchère"
+
+msgid "Your bids will be used when the counter reaches"
+msgstr "Vos bids seront utilisés lorsque le compteur atteindra"
+
+msgid "seconds."
+msgstr "secondes."
+
+msgid "The minimum price must be"
+msgstr "Le prix minimum doit être"
+
+msgid "higher than the current bid."
+msgstr "supérieur à l'offre actuelle."
+
+msgid "Minimum Price *"
+msgstr "Prix minimum *"
+
+msgid "Maximum Price *"
+msgstr "Prix maximum *"
+
+msgid "Number of Bids to use *"
+msgstr "Nombre de bids à utiliser *"
+
+msgid "Add a Bid Buddy >>"
+msgstr "Ajouter un biddeur automatique >>"
+
+msgid "<< Back to the auction"
+msgstr "<< Retour à l’enchère"
+
+msgid "<< Back to my bid butlers"
+msgstr "<< Retour à mes biddeurs automatique"
+
+msgid "Users Bid Butlers"
+msgstr "Votre biddeur automatique"
+
+msgid "Are you sure you want to delete this bid butler?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce videur automatique?"
+
+msgid "This user has no bid butlers at the moment."
+msgstr "Cet utilisateur n'a pas de videur automatique pour le moment."
+
+msgid "Edit BidBuddies"
+msgstr "Modifier le biddeur automatique"
+
+msgid "Edit My Bid Butler for Auction:"
+msgstr "Modifier mon biddeur automatique pour l’enchère:"
+
+msgid "You have no bid butlers at the moment."
+msgstr "Vous n'avez pas de biddeur automatique pour le moment."
+
+msgid "Current bid"
+msgstr "Prix enchère"
+
+msgid "Min price"
+msgstr "Prix Congobid"
+
+msgid "Add to Watchlist"
+msgstr "Ajouter aux Favoris"
+
+msgid "Remove  Watchlist"
+msgstr "Supprimer des favoris"
+
+msgid "Categorie"
+msgstr "Catégorie"
+
+msgid "Plans"
+msgstr "Les categories"
+
+msgid "Sold for"
+msgstr "Vendu pour"
+
+
+
+
+
+
+
+
+msgid "Winner bid"
+msgstr "Enchère gagnante"
+
+msgid "Please confirm that your address details are correct before paying for this item"
+msgstr "Veuillez confirmer que vos coordonnées sont correctes avant de payer pour cet article"
+
+msgid "If you feel that there may have been an error, please"
+msgstr "Si vous pensez qu'il peut y avoir eu une erreur, veuillez"
+
+msgid "contact us before paying for your auction"
+msgstr "contactez-nous avant de payer votre enchère"
+
+msgid "Payment Methods"
+msgstr "méthodes de payement"
+
+msgid "To pay with a card, click PAY, then PAY WITH DEBIT OR CREDIT CARD on the next page"
+msgstr "Pour payer avec une carte, cliquez sur PAYER, puis PAYER PAR CARTE DE DÉBIT OU DE CRÉDIT sur la page suivante"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Other Auctions"
+msgstr "Autres enchères"
+
+msgid "All Items"
+msgstr "Tous les articles"
+
+msgid "Previous Winners"
+msgstr "Gagnants précédents"
+
+msgid "d"
+msgstr "j" 
+
+msgid "Coming Soon"
+msgstr "Souscrivez"
+
+msgid "Starts at"
+msgstr "Démarre à"
+
+msgid "You entered wrong otp, pleasetry again."
+msgstr "You entered wrong otp, pleasetry again.."
+
+msgid "Your password is reset, you can login now"
+msgstr "Your password is reset, you can login now.."
+
+msgid "OTP Received"
+msgstr "OTP Received.."
+
+msgid "OTP must be 4 digits"
+msgstr "OTP must be 4 digits.."
+
+msgid "OTP must be 4 digit long"
+msgstr "OTP must be 4 digit long.."
+
+msgid "Your current balance"
+msgstr "Vos Bids"
+
+msgid "Price increase"
+msgstr "Augmentation du prix"
+
+msgid "You can not upgrade to lower package"
+msgstr "You can not upgrade to lower package fre"
+
+msgid "Today, "
+msgstr "Aujourd'hui, "
+
+
+
+msgid "Convert bonus bids"
+msgstr "Convertir les Bonus en Bids"
+
+msgid "Convert Bids"
+msgstr "Convertir les Bonus"
+
+msgid "You must have minimum 2 bonus bids to convert into regular bids."
+msgstr "Il vous faut 2 bonus minimum pour convertir en Bid"
+
+msgid "Bids converted."
+msgstr "Vos Bonus sont convertis en Bid"
+
+msgid "Converted %s bonus bids into %s regular bids"
+msgstr "Vous venez de convertir %s bonus en %s Bids"
+
+msgid "Convert"
+msgstr "Convertir"
+
+msgid "Click Below Convert button if you want to convert"
+msgstr "Clikez le boutton pour convertir."
+
+msgid "You currently have %s Bonus bids, it can be converted into your regular %s bids"
+msgstr "Vous avez %s Bonus qui seront convertis en %s Bids"
+
+msgid "bids placed on this auction"
+msgstr "Total des clicks sur l'enchère:"
+
+msgid ""
+msgstr ""
+
